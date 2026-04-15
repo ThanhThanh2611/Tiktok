@@ -1,4 +1,79 @@
 # TikTok Analyzer 🎵
+
+Công cụ phân tích video TikTok bằng Gemini AI và crawl toàn bộ comment, lưu kết quả ra file JSON.
+
+---
+
+## Cài đặt
+
+### 1. Yêu cầu
+- Python 3.9 trở lên
+- Pip
+
+### 2. Cài thư viện
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Cách dùng
+
+```bash
+python tiktok_analyzer.py <URL_VIDEO_TIKTOK>
+```
+
+**Ví dụ:**
+```bash
+python tiktok_analyzer.py https://www.tiktok.com/@user/video/7123456789012345678
+```
+---
+
+## Tùy chọn
+
+| Tham số | Mô tả | Ví dụ |
+|---|---|---|
+| `--max-comments <số>` | Giới hạn số comment crawl (mặc định: 500) | `--max-comments 2000` |
+| `--skip-video` | Bỏ qua phân tích video, chỉ crawl comment | `--skip-video` |
+| `--model <tên>` | Chọn model Gemini cụ thể | `--model gemini-1.5-flash` |
+| `--cookies-from-browser <trình_duyệt>` | Lấy cookie từ trình duyệt để bypass kiểm tra | `--cookies-from-browser chrome` |
+| `--cookies <file>` | Dùng file cookies.txt | `--cookies cookies.txt` |
+| `--proxy <địa_chỉ>` | Dùng proxy / VPN local | `--proxy http://127.0.0.1:7890` |
+
+---
+
+## Ví dụ nâng cao
+
+```bash
+# Dùng cookie Chrome để tải video không bị chặn
+python tiktok_analyzer.py <URL> --cookies-from-browser chrome
+
+# Crawl tối đa 2000 comment
+python tiktok_analyzer.py <URL> --max-comments 2000
+
+# Dùng proxy Clash/V2Ray
+python tiktok_analyzer.py <URL> --proxy http://127.0.0.1:7890
+
+# Chỉ crawl comment, không phân tích video
+python tiktok_analyzer.py <URL> --skip-video
+
+# Dùng model cụ thể
+python tiktok_analyzer.py <URL> --model gemini-1.5-flash
+
+# Kết hợp nhiều tùy chọn
+python tiktok_analyzer.py <URL> --cookies-from-browser chrome --max-comments 1000 --proxy http://127.0.0.1:7890
+```
+
+---
+
+## Kết quả
+
+Kết quả được lưu tự động vào thư mục `output/<video_id>.json` với cấu trúc:
+
+```json
+{
+  "url": "https://www.tiktok.com/...",
+  "video_id": "7123456789012345678",
   "crawled_at": "2025-04-15T10:00:00+00:00",
   "metadata": {
     "title": "...",
@@ -23,7 +98,6 @@
 ```
 
 > **Lưu ý:** Chạy lại cùng URL sẽ bỏ qua bước đã có sẵn (không tốn thêm quota).
-
 ---
 
 ## Xử lý lỗi thường gặp
