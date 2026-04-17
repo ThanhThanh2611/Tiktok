@@ -1,0 +1,5253 @@
+{
+  "url": "https://www.tiktok.com/@beatnow275/video/7628192889352293653?is_from_webapp=1",
+  "video_id": "7628192889352293653",
+  "crawled_at": "2026-04-17T10:10:56.217957+00:00",
+  "metadata": {
+    "title": "Khổ chú #beatnow #beatnetwork #beatnews",
+    "description": "Khổ chú #beatnow #beatnetwork #beatnews",
+    "uploader": "beatnow275",
+    "uploader_id": "66052421869",
+    "like_count": 454600,
+    "comment_count": 2760,
+    "view_count": 6300000,
+    "share_count": 58700,
+    "upload_date": "20260413",
+    "duration": 66,
+    "webpage_url": "https://www.tiktok.com/@beatnow275/video/7628192889352293653?is_from_webapp=1",
+    "video_id": "7628192889352293653"
+  },
+  "analysis": {
+    "format": "Social News/Storytelling - Dạng video tin tức giải trí tổng hợp từ các nguồn Douyin (Trung Quốc), có lời bình tiếng Việt hóm hỉnh.",
+    "character_study": {
+      "mr_mo": "Ông chủ họ Mạc, mong muốn có cuộc sống 'chill' tuổi già nhưng lại vô tình trở thành hiện tượng mạng. Ông liên tục van xin khách đừng đến vì quá tải.",
+      "the_son": "Lái xe Land Rover sang trọng nhưng vẫn phải về mặc tạp dề chặt gà, thể hiện sự đối lập hài hước giữa giàu sang và công việc chân tay.",
+      "the_daughter": "Chủ một nhà máy nhưng phải về làm 'tiếp tân' đeo loa thông báo cho thực khách.",
+      "local_government": "Ban ngành địa phương đóng vai trò 'thúc đẩy' bằng cách làm đường, xây bãi đỗ xe để hỗ trợ du lịch, khiến ông chú không thể đóng cửa."
+    },
+    "key_segments": [
+      {
+        "timestamp": "00:00 - 00:15",
+        "event": "Giới thiệu nghịch lý của quán lẩu gà.",
+        "content": "Quán quá đông khiến chủ quán phải tuyên bố 'Không ngon đâu đừng đến' để đuổi khách, nhưng hiệu quả ngược lại hoàn toàn.",
+        "quote": "Không ngon đâu đừng đến!"
+      },
+      {
+        "timestamp": "00:16 - 00:35",
+        "event": "Sự can thiệp của chính quyền địa phương.",
+        "content": "Chính quyền huyện Thuận Đức (Phật Sơn) hỗ trợ mở rộng bãi đỗ xe 2000m2 và trải lại đường nhựa ngay trong đêm để đón khách.",
+        "impact": "Biến một quán lẩu gia đình thành địa điểm du lịch trọng điểm."
+      },
+      {
+        "timestamp": "00:36 - 00:55",
+        "event": "Gia thế 'khủng' của gia đình ông Mạc.",
+        "content": "Hình ảnh con trai lái xe sang, con gái làm chủ doanh nghiệp nhưng đều phải gác lại việc riêng để về phụ quán ăn gia đình.",
+        "visual": "Đối lập giữa trang phục cao cấp và bối cảnh chặt gà thô sơ."
+      },
+      {
+        "timestamp": "00:56 - 01:05",
+        "event": "Sự hỗ trợ chuyên nghiệp.",
+        "content": "Cục văn hóa du lịch cử cả đầu bếp chuyên nghiệp đến hỗ trợ khâu sơ chế gà để giảm tải cho ông Mạc.",
+        "conclusion": "Nỗi khổ của việc quá thành công."
+      }
+    ],
+    "technical_analysis": {
+      "visual_source": "Sử dụng footage từ Douyin, cắt ghép nhịp nhàng theo lời bình (Voiceover).",
+      "editing_style": "Chèn text lớn, màu sắc rực rỡ (vàng/đỏ) để nhấn mạnh các yếu tố gây sốc (siêu xe, làm đường trong đêm).",
+      "audio": "Nhạc nền vui nhộn, tốc độ lời bình nhanh, cuốn hút, mang phong cách 'tám chuyện' của mạng xã hội Việt Nam."
+    },
+    "cultural_context": "Video phản ánh hiện tượng 'Kinh tế lưu lượng' tại Trung Quốc, nơi một cá nhân/quán ăn nhỏ có thể kéo theo sự phát triển hạ tầng và du lịch của cả một khu vực chỉ nhờ viral trên mạng xã hội."
+  },
+  "comments": [
+    {
+      "comment_id": "7628211022478492434",
+      "text": "vãi nhà nước hỗ trợ đến cùng luôn hả 😳",
+      "author": "trần đại",
+      "author_id": "6739261115287192577",
+      "like_count": 18073,
+      "reply_count": 88,
+      "create_time": 1776081292,
+      "create_time_str": "2026-04-13 11:54:52 UTC"
+    },
+    {
+      "comment_id": "7628439635371803400",
+      "text": "[Sticker] Ở cái tuổi ít tham vọng nhất thì sự nghiệp lại lên đỉnh cao nhất -)))",
+      "author": "Thanh Long",
+      "author_id": "6879670693940839425",
+      "like_count": 35304,
+      "reply_count": 92,
+      "create_time": 1776134530,
+      "create_time_str": "2026-04-14 02:42:10 UTC"
+    },
+    {
+      "comment_id": "7628207551335400212",
+      "text": "Phải nói lãnh đạo của họ nhanh nhạy thật",
+      "author": "Mưa Băng Giá",
+      "author_id": "6716046672500458498",
+      "like_count": 33385,
+      "reply_count": 76,
+      "create_time": 1776080488,
+      "create_time_str": "2026-04-13 11:41:28 UTC"
+    },
+    {
+      "comment_id": "7629222814133846800",
+      "text": "con trai lái LAND ROVER",
+      "author": "🥀13th4🌻",
+      "author_id": "7414129685501838356",
+      "like_count": 17,
+      "reply_count": 0,
+      "create_time": 1776316877,
+      "create_time_str": "2026-04-16 05:21:17 UTC"
+    },
+    {
+      "comment_id": "7628404050816533268",
+      "text": "nếu tin là thật thì địa phương chính sách quá tốt",
+      "author": "Bạch Đế",
+      "author_id": "6546885534696914946",
+      "like_count": 4224,
+      "reply_count": 41,
+      "create_time": 1776126260,
+      "create_time_str": "2026-04-14 00:24:20 UTC"
+    },
+    {
+      "comment_id": "7629354906922976007",
+      "text": "nhưng ý là nó ngon lắm hã ta , tò mò vãi 🤣",
+      "author": "tui nè",
+      "author_id": "6648559246827454466",
+      "like_count": 5,
+      "reply_count": 3,
+      "create_time": 1776347623,
+      "create_time_str": "2026-04-16 13:53:43 UTC"
+    },
+    {
+      "comment_id": "7628240842885907208",
+      "text": "ở Vn thì sao ta, chắc ko tồn tại nổi",
+      "author": "Hòa Thái",
+      "author_id": "6574599985763975169",
+      "like_count": 925,
+      "reply_count": 46,
+      "create_time": 1776088239,
+      "create_time_str": "2026-04-13 13:50:39 UTC"
+    },
+    {
+      "comment_id": "7628442039370171137",
+      "text": "Ở Đà Lạt thì có cô Long gánh cả vùng du lịch.",
+      "author": "É Shop 127",
+      "author_id": "6573516194241216513",
+      "like_count": 255,
+      "reply_count": 67,
+      "create_time": 1776135093,
+      "create_time_str": "2026-04-14 02:51:33 UTC"
+    },
+    {
+      "comment_id": "7628196630542500609",
+      "text": "S chú đó k thuê nv z?",
+      "author": "lười đặt tên",
+      "author_id": "7228488637326263298",
+      "like_count": 4083,
+      "reply_count": 60,
+      "create_time": 1776077951,
+      "create_time_str": "2026-04-13 10:59:11 UTC"
+    },
+    {
+      "comment_id": "7628201940392575751",
+      "text": "tất cả là tại cái anh tới quay video kia hết 😂🤣",
+      "author": "Tứ Phương ❤️",
+      "author_id": "7428288454163072018",
+      "like_count": 3842,
+      "reply_count": 12,
+      "create_time": 1776079178,
+      "create_time_str": "2026-04-13 11:19:38 UTC"
+    },
+    {
+      "comment_id": "7628269104307405589",
+      "text": "Con trai có vợ chưa",
+      "author": "Lisatrang.",
+      "author_id": "6748356915849724930",
+      "like_count": 148,
+      "reply_count": 30,
+      "create_time": 1776094820,
+      "create_time_str": "2026-04-13 15:40:20 UTC"
+    },
+    {
+      "comment_id": "7628287854205207303",
+      "text": "quan họ nó khác. quan mình ...",
+      "author": "Võ Thanh Mai",
+      "author_id": "6545055078638108673",
+      "like_count": 419,
+      "reply_count": 41,
+      "create_time": 1776099182,
+      "create_time_str": "2026-04-13 16:53:02 UTC"
+    },
+    {
+      "comment_id": "7628455668064060168",
+      "text": "k phải khen chứ chính quyền bên Trung nó làm du lịch đỉnh",
+      "author": "Đồ Sưu Tầm",
+      "author_id": "7137282961888265217",
+      "like_count": 578,
+      "reply_count": 6,
+      "create_time": 1776138255,
+      "create_time_str": "2026-04-14 03:44:15 UTC"
+    },
+    {
+      "comment_id": "7628208822234645269",
+      "text": "Ông quan chi huyện bên đấy hay thật 😂 đổ nền để làm bãi giữ xe xong thêm quả chỗ để dành cho khách để ngồi chờ 🤣 rồi là giảm áp lực dữ chưa",
+      "author": "Thanh Tuấn",
+      "author_id": "6705751939118121986",
+      "like_count": 2121,
+      "reply_count": 8,
+      "create_time": 1776080784,
+      "create_time_str": "2026-04-13 11:46:24 UTC"
+    },
+    {
+      "comment_id": "7628463962090636050",
+      "text": "tại blogger đó. 1 hôm blogger qua ăn gà nuôi vườn nhà ông Mạc rồi review, khách tò mò ghé qua ăn thử và thấy ngon cứ vậy tiếng thơm lan xa, ổng làm k kịp, con ổng về phụ cũng k nổi, nhà ổng đóng cửa 1 thời gian ngắn thì cán bộ địa phương qua vận động khuyến khích mở cửa lại để kích cầu du lịch cho địa phương, bên cán bộ địa phương cũng hỗ trợ làm bãi đỗ xe, phụ quán. ổng đã giới hạn số lượng khách trong ngay nhưng khách không nản họ tình nguyện xếp hàng để xếp hàng, ổng đánh giá mình 1 sao kêu quán nấu vừa dở vừa mắc nhưng k có tác dụng, ổng huy động nguồn lực nhà có rồi vẫn k xuể, ổng cũng khuyên khách đi chỗ khác ăn đi, chỗ kia ăn ngon lắm khách vẫn vậy vẫn xếp hàng đợi",
+      "author": "Bon Bon",
+      "author_id": "7220385955911631874",
+      "like_count": 5,
+      "reply_count": 0,
+      "create_time": 1776140188,
+      "create_time_str": "2026-04-14 04:16:28 UTC"
+    },
+    {
+      "comment_id": "7628468309289698049",
+      "text": "Bí thư huyện : trong thời gian tại chức tôi thúc đẩy kinh tế vùng lên 500% 😂😂😂",
+      "author": "Huỳnh Trứ",
+      "author_id": "6580807158098214913",
+      "like_count": 598,
+      "reply_count": 3,
+      "create_time": 1776141204,
+      "create_time_str": "2026-04-14 04:33:24 UTC"
+    },
+    {
+      "comment_id": "7628391798449013522",
+      "text": "Vấn đề là cái Cục Văn hóa bên đó rất nhanh nhạy, và cũng rất lực nữa. Họ có thể điều động Ban quản lý xây dựng địa phương làm đường, bão xe ngay trong vài ngày rất nhanh, rồi kết nối với nhiều người quảng bá đặc sản địa phương. 😁😁",
+      "author": "Nam Pham",
+      "author_id": "6905600621359252485",
+      "like_count": 1150,
+      "reply_count": 11,
+      "create_time": 1776123393,
+      "create_time_str": "2026-04-13 23:36:33 UTC"
+    },
+    {
+      "comment_id": "7628830874780795649",
+      "text": "Sao ko thuê nhân viên nhỉ",
+      "author": "tdtdtdtdtd2312",
+      "author_id": "7460409472213664786",
+      "like_count": 7,
+      "reply_count": 4,
+      "create_time": 1776225641,
+      "create_time_str": "2026-04-15 04:00:41 UTC"
+    },
+    {
+      "comment_id": "7628474043024999175",
+      "text": "phải do anh này reviu ko ạ🥰🥰🥰😂",
+      "author": "shila manyla 999",
+      "author_id": "6766378042006930433",
+      "like_count": 46,
+      "reply_count": 12,
+      "create_time": 1776142534,
+      "create_time_str": "2026-04-14 04:55:34 UTC"
+    },
+    {
+      "comment_id": "7628530908321153810",
+      "text": "Quan trọng là có ngon tới mức nào hay chỉ đến vì sự nổi tiếng",
+      "author": "Nguyễn Khánh",
+      "author_id": "7231719702577824774",
+      "like_count": 3,
+      "reply_count": 1,
+      "create_time": 1776155775,
+      "create_time_str": "2026-04-14 08:36:15 UTC"
+    },
+    {
+      "comment_id": "7628513168134275861",
+      "text": "Tăng giá cao là đc",
+      "author": "𝙎𝙉_𝙈𝙪𝙨𝙞𝙘",
+      "author_id": "6802572474795574273",
+      "like_count": 7,
+      "reply_count": 5,
+      "create_time": 1776151646,
+      "create_time_str": "2026-04-14 07:27:26 UTC"
+    },
+    {
+      "comment_id": "7628267470831371028",
+      "text": "sao bác ko thuê người làm ạ :))",
+      "author": "VÀNG NGÔ",
+      "author_id": "7322688162323809281",
+      "like_count": 2,
+      "reply_count": 3,
+      "create_time": 1776094623,
+      "create_time_str": "2026-04-13 15:37:03 UTC"
+    },
+    {
+      "comment_id": "7628410490075644692",
+      "text": "Thấy làm du lịch chưa :))",
+      "author": "Hưng Ri Âu :))",
+      "author_id": "7359794270364517383",
+      "like_count": 85,
+      "reply_count": 2,
+      "create_time": 1776127753,
+      "create_time_str": "2026-04-14 00:49:13 UTC"
+    },
+    {
+      "comment_id": "7628262054106235655",
+      "text": "nhờ bác cả làng bán gà ko kịp 😂😂😂",
+      "author": "Tiêu Sá",
+      "author_id": "6776042601986343938",
+      "like_count": 285,
+      "reply_count": 2,
+      "create_time": 1776093176,
+      "create_time_str": "2026-04-13 15:12:56 UTC"
+    },
+    {
+      "comment_id": "7628203912025998098",
+      "text": "tăng giá là ngon",
+      "author": "ngdep đến từ vũ trụ tatanic",
+      "author_id": "7478879325518218258",
+      "like_count": 153,
+      "reply_count": 12,
+      "create_time": 1776079637,
+      "create_time_str": "2026-04-13 11:27:17 UTC"
+    },
+    {
+      "comment_id": "7628481696384369428",
+      "text": "ước cán bộ xã phường Việt Nam xem thấy",
+      "author": "Tiệm giặt Là",
+      "author_id": "7299608503483515909",
+      "like_count": 12,
+      "reply_count": 3,
+      "create_time": 1776144502,
+      "create_time_str": "2026-04-14 05:28:22 UTC"
+    },
+    {
+      "comment_id": "7628436238072054535",
+      "text": "Nghe bảo là ông chủ kêu đừng đến nữa mà 😂😂😂",
+      "author": "Tuấn Đỗ",
+      "author_id": "7006994649961841665",
+      "like_count": 7,
+      "reply_count": 1,
+      "create_time": 1776133730,
+      "create_time_str": "2026-04-14 02:28:50 UTC"
+    },
+    {
+      "comment_id": "7628522775476699922",
+      "text": "bên đó k biết đi thuê n về làm à",
+      "author": "Tuấn Binl",
+      "author_id": "6585486158549172225",
+      "like_count": 1,
+      "reply_count": 2,
+      "create_time": 1776153880,
+      "create_time_str": "2026-04-14 08:04:40 UTC"
+    },
+    {
+      "comment_id": "7628263354393445141",
+      "text": "Mình nghĩ chắc chỉ 1 thời gian ngắn thôi xong lại ế :))",
+      "author": "Warg",
+      "author_id": "6699416731100054530",
+      "like_count": 3,
+      "reply_count": 27,
+      "create_time": 1776093474,
+      "create_time_str": "2026-04-13 15:17:54 UTC"
+    },
+    {
+      "comment_id": "7628428237911245575",
+      "text": "dễ hiểu là ng ta từ xa đến ko chỉ ăn mỗi lẩu gà rồi về. mà ăn xong họ đi thăm quan, du lịch ở địa phương đó luôn. nên cục văn hoá phải ép mở liên tục làm cho thật hot để thu hút khách đến.",
+      "author": "Quang Jeremy",
+      "author_id": "6547900890718945281",
+      "like_count": 41,
+      "reply_count": 1,
+      "create_time": 1776131868,
+      "create_time_str": "2026-04-14 01:57:48 UTC"
+    },
+    {
+      "comment_id": "7628459846672761608",
+      "text": "nhiều cái của tq rất hay đáng học hỏi",
+      "author": "Tịnh Tâm662",
+      "author_id": "6634861491319226370",
+      "like_count": 35,
+      "reply_count": 2,
+      "create_time": 1776139228,
+      "create_time_str": "2026-04-14 04:00:28 UTC"
+    },
+    {
+      "comment_id": "7629186692075815688",
+      "text": "😂 quối đời phất lên như diều gặp gió",
+      "author": "Bin0508💪🏻💪🏻",
+      "author_id": "7136391945115272198",
+      "like_count": 0,
+      "reply_count": 1,
+      "create_time": 1776308464,
+      "create_time_str": "2026-04-16 03:01:04 UTC"
+    },
+    {
+      "comment_id": "7628401010112906002",
+      "text": "mở quán làm chill ngày 20.30 khách thui cũng được, ai dè 200,300 khách 1 ngày😂😂",
+      "author": "Hẹ Hẹ và 🐷",
+      "author_id": "6751941238477865985",
+      "like_count": 6,
+      "reply_count": 4,
+      "create_time": 1776125530,
+      "create_time_str": "2026-04-14 00:12:10 UTC"
+    },
+    {
+      "comment_id": "7628217789333930753",
+      "text": "quan trọng là bên dó nó làm đường hay xây gì điều trong 1 đêm là xong, chứ không như bên này, mún xây cây cầu là 3-4 tháng xét duyệt, có khi xây nguyên con lộ nhựa xong mà chả ai biết😂",
+      "author": "Lê Hoàng Tuấn",
+      "author_id": "7521742263325950977",
+      "like_count": 141,
+      "reply_count": 12,
+      "create_time": 1776082877,
+      "create_time_str": "2026-04-13 12:21:17 UTC"
+    },
+    {
+      "comment_id": "7628259290805437205",
+      "text": "Nhân viên nhanh trí đến ăn để sếp hầu 😁",
+      "author": "Hoàng Anh Đâyyyyy",
+      "author_id": "6522092381221961730",
+      "like_count": 33,
+      "reply_count": 2,
+      "create_time": 1776092530,
+      "create_time_str": "2026-04-13 15:02:10 UTC"
+    },
+    {
+      "comment_id": "7628208509162996498",
+      "text": "chú bán gà kiểu: \"đang bán chill chill chiều đi nhậu đi chơi ai ngờ giờ phải làm mệt mỏi như vậy\" 😂",
+      "author": "Gugugaga",
+      "author_id": "6969096813279020034",
+      "like_count": 822,
+      "reply_count": 4,
+      "create_time": 1776080705,
+      "create_time_str": "2026-04-13 11:45:05 UTC"
+    },
+    {
+      "comment_id": "7629164036127621905",
+      "text": "Bộ máy chính quyền của TQ rất nhạy luôn. Thấy quán nào nóng là lập tức triển khai du lịch,quảng cáo cho phát huy hết sức mạnh của quán, cũng như thu hút khách.",
+      "author": "Bối Bối",
+      "author_id": "7177178217333507073",
+      "like_count": 0,
+      "reply_count": 2,
+      "create_time": 1776303193,
+      "create_time_str": "2026-04-16 01:33:13 UTC"
+    },
+    {
+      "comment_id": "7628807735802807048",
+      "text": "Thật ko mng",
+      "author": "Ngọc Trâmm",
+      "author_id": "6707141622792668162",
+      "like_count": 1,
+      "reply_count": 1,
+      "create_time": 1776220229,
+      "create_time_str": "2026-04-15 02:30:29 UTC"
+    },
+    {
+      "comment_id": "7628474139027833608",
+      "text": "đời bắt phải giàu",
+      "author": "Phong Paris🇫🇷",
+      "author_id": "6856019303293633538",
+      "like_count": 15,
+      "reply_count": 1,
+      "create_time": 1776142551,
+      "create_time_str": "2026-04-14 04:55:51 UTC"
+    },
+    {
+      "comment_id": "7629366487519085333",
+      "text": "chịu ấy 😂",
+      "author": "Nguyễn Nhi( 1 tay - vồ 2 anh )",
+      "author_id": "7342102198070150145",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776350328,
+      "create_time_str": "2026-04-16 14:38:48 UTC"
+    },
+    {
+      "comment_id": "7628807735802807048",
+      "text": "Thật ko mng",
+      "author": "Ngọc Trâmm",
+      "author_id": "6707141622792668162",
+      "like_count": 1,
+      "reply_count": 1,
+      "create_time": 1776220229,
+      "create_time_str": "2026-04-15 02:30:29 UTC"
+    },
+    {
+      "comment_id": "7629600510185767700",
+      "text": "Ngon luôn🤣",
+      "author": "Miuxinh19911983",
+      "author_id": "6746524094210720769",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776404808,
+      "create_time_str": "2026-04-17 05:46:48 UTC"
+    },
+    {
+      "comment_id": "7629193120789431058",
+      "text": "🤣🤣🤣 thời tới ko lựa tuổi đâu🤣 nên phải cố gắn biết đâu bất ngờ như bác 🤣🤣🤣",
+      "author": "Trương Đạt Thái",
+      "author_id": "6557238179279405057",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776309958,
+      "create_time_str": "2026-04-16 03:25:58 UTC"
+    },
+    {
+      "comment_id": "7629225121773732626",
+      "text": "Ở đà Lạt có cô Long",
+      "author": "bà già",
+      "author_id": "7247345868536742918",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776317413,
+      "create_time_str": "2026-04-16 05:30:13 UTC"
+    },
+    {
+      "comment_id": "7629328201097429781",
+      "text": "Nhân viên nhanh trí tới ăn lẩu gà để sếp phục vụ lại.😅",
+      "author": "Mưa Của Ngày Xưa",
+      "author_id": "6827488019693929474",
+      "like_count": 7,
+      "reply_count": 0,
+      "create_time": 1776341411,
+      "create_time_str": "2026-04-16 12:10:11 UTC"
+    },
+    {
+      "comment_id": "7628429059652190997",
+      "text": "đây gọi là kích cầu du lịch 😁😁😁 . nếu là sự thật thì quá tuyệt vời",
+      "author": "hoà 19G",
+      "author_id": "6706726142807000066",
+      "like_count": 4,
+      "reply_count": 2,
+      "create_time": 1776132076,
+      "create_time_str": "2026-04-14 02:01:16 UTC"
+    },
+    {
+      "comment_id": "7629215181839123218",
+      "text": "Đang bán lẩu gà chill chill hưởng thụ tuổi già",
+      "author": "LKAORI COSMETICS VIỆT NAM",
+      "author_id": "7119093262535574554",
+      "like_count": 2,
+      "reply_count": 1,
+      "create_time": 1776315098,
+      "create_time_str": "2026-04-16 04:51:38 UTC"
+    },
+    {
+      "comment_id": "7628999449745900301",
+      "text": "我开车过去不到三个小时就到了😆",
+      "author": "Chinese supplier - Jie0165",
+      "author_id": "7548372053256619022",
+      "like_count": 0,
+      "reply_count": 1,
+      "create_time": 1776264884,
+      "create_time_str": "2026-04-15 14:54:44 UTC"
+    },
+    {
+      "comment_id": "7629392700462088981",
+      "text": "Chắc chủ quán hỏi thăm ba mẹ ông riview nhiều lắm đây 🥰🥰🥰",
+      "author": "$_-🅱️ắp-_nướng-_🌽65E1",
+      "author_id": "6907500968456815618",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776356419,
+      "create_time_str": "2026-04-16 16:20:19 UTC"
+    },
+    {
+      "comment_id": "7629382737442472725",
+      "text": "Thử lòng hiếu thảo 😂",
+      "author": "Tui Dí Ẻm",
+      "author_id": "7475154592985351186",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776354103,
+      "create_time_str": "2026-04-16 15:41:43 UTC"
+    },
+    {
+      "comment_id": "7628855575120790290",
+      "text": "[Sticker] NV: Ơ SẾP,SAO SẾP BỎ CTY CHO EM VẬY.\nSẾP: TỰ DƯNG NHÀ TÔI THÀNH KHU DU LỊCH TÔI ĐÂU MUỐN 🥲🥲🥲🥲🥲",
+      "author": "T1♑日豪🇻🇳🩵",
+      "author_id": "6849691393293992961",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776231372,
+      "create_time_str": "2026-04-15 05:36:12 UTC"
+    },
+    {
+      "comment_id": "7629345067875123976",
+      "text": "Bán chạy quá cũng khổ kk",
+      "author": "Duẩn Trần",
+      "author_id": "6725059294636639234",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776345333,
+      "create_time_str": "2026-04-16 13:15:33 UTC"
+    },
+    {
+      "comment_id": "7629013396105478913",
+      "text": "Nhà có phúc có phước quá🥰",
+      "author": "lethilan2_1🇻🇳",
+      "author_id": "7136883028559299585",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776268110,
+      "create_time_str": "2026-04-15 15:48:30 UTC"
+    },
+    {
+      "comment_id": "7628428603016954642",
+      "text": "Khỏi đi chạy bộ he.khỏi karaoke luôn hé😂 khỏi ún trà đón bình minh",
+      "author": "Mệnh Thổ nhưng lỗ tai cây😎",
+      "author_id": "7526096911637234744",
+      "like_count": 12,
+      "reply_count": 1,
+      "create_time": 1776131951,
+      "create_time_str": "2026-04-14 01:59:11 UTC"
+    },
+    {
+      "comment_id": "7629160160754336533",
+      "text": "thật ra họ đến vì vui là chính 🤣",
+      "author": "Hằng Mikaa",
+      "author_id": "6517253950378246145",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776302299,
+      "create_time_str": "2026-04-16 01:18:19 UTC"
+    },
+    {
+      "comment_id": "7629226267480834823",
+      "text": "Ở độ tuổi mà chú ít tham vọng nhất. Thì chú lại đạt đến đỉnh cao của sự nghiệp",
+      "author": "Quang 18 tủi",
+      "author_id": "6785503514359661569",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776317681,
+      "create_time_str": "2026-04-16 05:34:41 UTC"
+    },
+    {
+      "comment_id": "7628363548284257032",
+      "text": "chú nói \" đừng đến nữa tao quá mệt😂\". đợt chứ bán kẹo ổng ko cười ko nổi luôn làm từ sáng tới chiều tối ko ngưng tay luôn dù có thêm em họ làm thêm 😂. vừa thương vừa tội",
+      "author": "Em Thơm tạp hóa",
+      "author_id": "7524321912430150677",
+      "like_count": 5,
+      "reply_count": 0,
+      "create_time": 1776116812,
+      "create_time_str": "2026-04-13 21:46:52 UTC"
+    },
+    {
+      "comment_id": "7628261391363113744",
+      "text": "sai sách rồi phải làm mô hình siêu hiếm ngày chỉ phục vụ 10 bàn",
+      "author": "Khang Nguyễn",
+      "author_id": "6583575566446919681",
+      "like_count": 1,
+      "reply_count": 1,
+      "create_time": 1776093018,
+      "create_time_str": "2026-04-13 15:10:18 UTC"
+    },
+    {
+      "comment_id": "7628441454826734343",
+      "text": "Ở cái tuổi không còn tham vọng nữa thì thời lại tới quá mạnh =))",
+      "author": "Trần Thanh Tùng",
+      "author_id": "6699656465479140354",
+      "like_count": 7,
+      "reply_count": 0,
+      "create_time": 1776134950,
+      "create_time_str": "2026-04-14 02:49:10 UTC"
+    },
+    {
+      "comment_id": "7629161501000991495",
+      "text": "Thầy bói: sau trung niên sự nghiệp sẽ ngày càng phất lên 🥰",
+      "author": "Tomato3377",
+      "author_id": "7031492242082939905",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776302593,
+      "create_time_str": "2026-04-16 01:23:13 UTC"
+    },
+    {
+      "comment_id": "7629257755698742024",
+      "text": "Lẩu gà Bình thuận ak?",
+      "author": "Takedeshimaya",
+      "author_id": "7539167351780164614",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776325008,
+      "create_time_str": "2026-04-16 07:36:48 UTC"
+    },
+    {
+      "comment_id": "7628459617102545685",
+      "text": "lãnh đạo còn xây đường nữa mà, bên đó hay ở điểm đó, nể thật sự",
+      "author": "Nhất_Linh_boy",
+      "author_id": "6759299315216909313",
+      "like_count": 6,
+      "reply_count": 0,
+      "create_time": 1776139180,
+      "create_time_str": "2026-04-14 03:59:40 UTC"
+    },
+    {
+      "comment_id": "7628584943007056661",
+      "text": "Thật ra nhà ông giàu. Ông k thiếu tiền. Chỉ là bán về già thui . K ngời nổi",
+      "author": "Mẹcủabôm.",
+      "author_id": "6562476985447874561",
+      "like_count": 5,
+      "reply_count": 0,
+      "create_time": 1776168358,
+      "create_time_str": "2026-04-14 12:05:58 UTC"
+    },
+    {
+      "comment_id": "7629582592938394386",
+      "text": "thử tưởng tượng ôg mà mở quán lúc còn trẻ thì ko biết về già có thành tỷ phú ko nhỉ",
+      "author": "「NguieN」🍉",
+      "author_id": "7414360870015452165",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776400644,
+      "create_time_str": "2026-04-17 04:37:24 UTC"
+    },
+    {
+      "comment_id": "7628261289950069524",
+      "text": "\"đời k cho tôi nghèo\"",
+      "author": "Aptx-4869",
+      "author_id": "6635564949043314689",
+      "like_count": 249,
+      "reply_count": 0,
+      "create_time": 1776093002,
+      "create_time_str": "2026-04-13 15:10:02 UTC"
+    },
+    {
+      "comment_id": "7629578371442475784",
+      "text": "đây gọi là gì\n\"không làm gì cũng gặp may\"😂",
+      "author": "Yugi Tsukasa",
+      "author_id": "7400630234523091986",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776399661,
+      "create_time_str": "2026-04-17 04:21:01 UTC"
+    },
+    {
+      "comment_id": "7629161452691899154",
+      "text": "Khỏi Cảm Ơn🐧🐧",
+      "author": "『 𝚇𝙸𝚅𝙸 』 𝙼𝚒𝚗𝚑 𝙳𝚊𝚗𝚐",
+      "author_id": "7416727467337843719",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776302591,
+      "create_time_str": "2026-04-16 01:23:11 UTC"
+    },
+    {
+      "comment_id": "7629629451478795028",
+      "text": "Thần tài: t chọn ông này",
+      "author": "Kim Ngọc",
+      "author_id": "6577723680116260865",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776411546,
+      "create_time_str": "2026-04-17 07:39:06 UTC"
+    },
+    {
+      "comment_id": "7628206346451059457",
+      "text": "Cái hay là du lịch phản ứng rất nhanh 🥰",
+      "author": "Thân Phúc",
+      "author_id": "6810716086850618370",
+      "like_count": 84,
+      "reply_count": 0,
+      "create_time": 1776080217,
+      "create_time_str": "2026-04-13 11:36:57 UTC"
+    },
+    {
+      "comment_id": "7628477746101043975",
+      "text": "[Sticker] ổng khi thấy hết ngày còn chưa hết khách",
+      "author": "TLords chơi đá ⚽",
+      "author_id": "6934335588125705217",
+      "like_count": 8,
+      "reply_count": 0,
+      "create_time": 1776143396,
+      "create_time_str": "2026-04-14 05:09:56 UTC"
+    },
+    {
+      "comment_id": "7628797121394672391",
+      "text": "chúng ta cũng phải công nhận một điều lãnh đạo văn hóa bên đó cập nhật thông tin liên tục hỗ trợ tối đa luôn",
+      "author": "Việt Hoàng đây 🇻🇳",
+      "author_id": "6525399619403939841",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776217754,
+      "create_time_str": "2026-04-15 01:49:14 UTC"
+    },
+    {
+      "comment_id": "7629234342270812949",
+      "text": "giàu tới cản không kịp là đây",
+      "author": "Trungken74_03807",
+      "author_id": "7463748165322966032",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776319731,
+      "create_time_str": "2026-04-16 06:08:51 UTC"
+    },
+    {
+      "comment_id": "7628448569029362452",
+      "text": "chỉ cần cố gắng tuổi nào cũng có thể thành công.chính quyền là động lực lớn nhất",
+      "author": "Hồ Dung BĐS Gò Vấp TP- HCM",
+      "author_id": "7116701112933336065",
+      "like_count": 8,
+      "reply_count": 0,
+      "create_time": 1776136614,
+      "create_time_str": "2026-04-14 03:16:54 UTC"
+    },
+    {
+      "comment_id": "7628602627564372756",
+      "text": "[Sticker] Ông bác lúc này",
+      "author": "️",
+      "author_id": "6904995223770006530",
+      "like_count": 6,
+      "reply_count": 0,
+      "create_time": 1776172477,
+      "create_time_str": "2026-04-14 13:14:37 UTC"
+    },
+    {
+      "comment_id": "7628266206423859975",
+      "text": "Gà luộc Quảng Đông ăn ngon cực nhé, nó giòn, mềm, ngọt.",
+      "author": "Tất Mèo",
+      "author_id": "6587612399506685954",
+      "like_count": 5,
+      "reply_count": 0,
+      "create_time": 1776094137,
+      "create_time_str": "2026-04-13 15:28:57 UTC"
+    },
+    {
+      "comment_id": "7628411492149658376",
+      "text": "nghỉ hưu gặp nghỉ ngơi đi ăn lẩu 😂",
+      "author": "Chiến.",
+      "author_id": "6821475617113932801",
+      "like_count": 6,
+      "reply_count": 0,
+      "create_time": 1776127982,
+      "create_time_str": "2026-04-14 00:53:02 UTC"
+    },
+    {
+      "comment_id": "7628411616841548552",
+      "text": "khi bạn đạt thành tựu ở độ tuổi k còn muốn tranh đấu :)))",
+      "author": "Chow Chow",
+      "author_id": "163731572263817216",
+      "like_count": 13,
+      "reply_count": 0,
+      "create_time": 1776128001,
+      "create_time_str": "2026-04-14 00:53:21 UTC"
+    },
+    {
+      "comment_id": "7628281054326965010",
+      "text": "Nể chính quyền bên đó thật. thấy họ quá nhanh trong việc phát triển địa phương.",
+      "author": "Lê Hồng Nhung",
+      "author_id": "7500760948799144968",
+      "like_count": 15,
+      "reply_count": 0,
+      "create_time": 1776097594,
+      "create_time_str": "2026-04-13 16:26:34 UTC"
+    },
+    {
+      "comment_id": "7628274273291518737",
+      "text": "thời tới cản thế éo nào đc",
+      "author": "Master LouLi",
+      "author_id": "6553576785912741889",
+      "like_count": 6,
+      "reply_count": 0,
+      "create_time": 1776096022,
+      "create_time_str": "2026-04-13 16:00:22 UTC"
+    },
+    {
+      "comment_id": "7629037156690330376",
+      "text": "Tuyệt vời 👍👍👍🤣🤣🤣🤣🤣",
+      "author": "Cô Mây Trải Đời",
+      "author_id": "7114231178907255810",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776273640,
+      "create_time_str": "2026-04-15 17:20:40 UTC"
+    },
+    {
+      "comment_id": "7629037156690330376",
+      "text": "Tuyệt vời 👍👍👍🤣🤣🤣🤣🤣",
+      "author": "Cô Mây Trải Đời",
+      "author_id": "7114231178907255810",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776273640,
+      "create_time_str": "2026-04-15 17:20:40 UTC"
+    },
+    {
+      "comment_id": "7628485000123695889",
+      "text": "đây là minh chứng câu:\" Thời tới muốn cản cũng không được\"",
+      "author": "storm",
+      "author_id": "6784372918984147969",
+      "like_count": 5,
+      "reply_count": 0,
+      "create_time": 1776145083,
+      "create_time_str": "2026-04-14 05:38:03 UTC"
+    },
+    {
+      "comment_id": "7628591037216719634",
+      "text": "Chú đã mắc 1 sai lầm chú càng cấm ngta càng đến😞",
+      "author": "BaoBao mê chao😴💤",
+      "author_id": "7371766865120904209",
+      "like_count": 8,
+      "reply_count": 0,
+      "create_time": 1776169770,
+      "create_time_str": "2026-04-14 12:29:30 UTC"
+    },
+    {
+      "comment_id": "7628454212649353985",
+      "text": "Tự đánh giá quán mình 1 sao nhưng vẫn đông 🤣",
+      "author": "Duy Nhỏ",
+      "author_id": "6555450252344786946",
+      "like_count": 11,
+      "reply_count": 0,
+      "create_time": 1776137926,
+      "create_time_str": "2026-04-14 03:38:46 UTC"
+    },
+    {
+      "comment_id": "7628194420974568200",
+      "text": "má cười vl😭",
+      "author": "vo martin🍅",
+      "author_id": "7552392292524344327",
+      "like_count": 96,
+      "reply_count": 0,
+      "create_time": 1776077427,
+      "create_time_str": "2026-04-13 10:50:27 UTC"
+    },
+    {
+      "comment_id": "7628439562188800769",
+      "text": "Đang dưỡng già chill , lại chở thành khởi nghiệp ko mong muốn 😂😂",
+      "author": "Nguyễn Kim Dung",
+      "author_id": "7094208916833240066",
+      "like_count": 11,
+      "reply_count": 0,
+      "create_time": 1776134520,
+      "create_time_str": "2026-04-14 02:42:00 UTC"
+    },
+    {
+      "comment_id": "7628193599486411528",
+      "text": "sớm nhất",
+      "author": "hồng anh",
+      "author_id": "7504994150745768976",
+      "like_count": 1,
+      "reply_count": 2,
+      "create_time": 1776077237,
+      "create_time_str": "2026-04-13 10:47:17 UTC"
+    },
+    {
+      "comment_id": "7629198530250949396",
+      "text": "cái này mới đúng cái câu là... thời tới cảng không nổi...🤪😂🥰",
+      "author": "Thiên Trường 74",
+      "author_id": "7377765992539145221",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776311225,
+      "create_time_str": "2026-04-16 03:47:05 UTC"
+    },
+    {
+      "comment_id": "7628432845020431111",
+      "text": "quan chi huyện hỗ trợ mở đường rộng ra cho đông khách hơn nữa 🤣🤣",
+      "author": "Thành Nhỏ",
+      "author_id": "6850022753006076929",
+      "like_count": 7,
+      "reply_count": 0,
+      "create_time": 1776132946,
+      "create_time_str": "2026-04-14 02:15:46 UTC"
+    },
+    {
+      "comment_id": "7628496614499795733",
+      "text": "đời ép phải rực rỡ 🥲",
+      "author": "LouisLe189",
+      "author_id": "7193582943280923649",
+      "like_count": 7,
+      "reply_count": 0,
+      "create_time": 1776147790,
+      "create_time_str": "2026-04-14 06:23:10 UTC"
+    },
+    {
+      "comment_id": "7628866886687621908",
+      "text": "quan tri huyện vì dân là đây chứ đâu",
+      "author": "Alibaba",
+      "author_id": "7233002098328650753",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776234001,
+      "create_time_str": "2026-04-15 06:20:01 UTC"
+    },
+    {
+      "comment_id": "7628226212577428231",
+      "text": "=))) tổng tài và quý phu nhân =))",
+      "author": "bunny 🐰",
+      "author_id": "6919042738768315393",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776084827,
+      "create_time_str": "2026-04-13 12:53:47 UTC"
+    },
+    {
+      "comment_id": "7629183808734839569",
+      "text": "càng khổ càng làm phiền 😋 giống như tôi coi Em Chè làm thử thách 9 top 1 vậy",
+      "author": "Quân và chó",
+      "author_id": "6919338477549863937",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776307793,
+      "create_time_str": "2026-04-16 02:49:53 UTC"
+    },
+    {
+      "comment_id": "7628962726911886098",
+      "text": "Giờ lại có ý tưởng bán lẩu gà Quảng Đông ở HN ấy👀",
+      "author": "Che Guevara",
+      "author_id": "6908714771315704833",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776256313,
+      "create_time_str": "2026-04-15 12:31:53 UTC"
+    },
+    {
+      "comment_id": "7628479895811998482",
+      "text": "Chính quyền hỗ trợ người dân kiếm tiền vậy mà",
+      "author": "💫 LÝ NHƯỢC BĂNG ✨",
+      "author_id": "7065679892658078721",
+      "like_count": 5,
+      "reply_count": 0,
+      "create_time": 1776143901,
+      "create_time_str": "2026-04-14 05:18:21 UTC"
+    },
+    {
+      "comment_id": "7628489697710310152",
+      "text": "Ông chủ:\"t định bán cho vui thôi mà\"",
+      "author": "Na'c anh ná thở",
+      "author_id": "6942010959800534018",
+      "like_count": 5,
+      "reply_count": 0,
+      "create_time": 1776146174,
+      "create_time_str": "2026-04-14 05:56:14 UTC"
+    },
+    {
+      "comment_id": "7628425203430064917",
+      "text": "Hình như đây là lý do",
+      "author": "1_2_3zooooooo",
+      "author_id": "6866474814489183234",
+      "like_count": 6,
+      "reply_count": 0,
+      "create_time": 1776131175,
+      "create_time_str": "2026-04-14 01:46:15 UTC"
+    },
+    {
+      "comment_id": "7628258760691843861",
+      "text": "Ê tính ra nhà nước người ta biết tận dụng cơ hội vãi",
+      "author": "t",
+      "author_id": "6713176509996090370",
+      "like_count": 37,
+      "reply_count": 0,
+      "create_time": 1776092411,
+      "create_time_str": "2026-04-13 15:00:11 UTC"
+    },
+    {
+      "comment_id": "7628198628225450760",
+      "text": "Như phim audio",
+      "author": "维",
+      "author_id": "6849621731347399681",
+      "like_count": 25,
+      "reply_count": 0,
+      "create_time": 1776078405,
+      "create_time_str": "2026-04-13 11:06:45 UTC"
+    },
+    {
+      "comment_id": "7628211035896464135",
+      "text": "t thích lẩu gà bình thuận hơn 💔😓",
+      "author": "Phương ák quỷk 😱😭😈🤠🤑🥵😇",
+      "author_id": "7446405546650764289",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776081295,
+      "create_time_str": "2026-04-13 11:54:55 UTC"
+    },
+    {
+      "comment_id": "7628193667619291912",
+      "text": "chill đấy",
+      "author": "❄ᏞᏙ『Bắp』ᏞᏙ❄",
+      "author_id": "7447846294809789457",
+      "like_count": 22,
+      "reply_count": 0,
+      "create_time": 1776077253,
+      "create_time_str": "2026-04-13 10:47:33 UTC"
+    },
+    {
+      "comment_id": "7628230824089748244",
+      "text": "mở chơi chơi mà nhiều khách quá chi",
+      "author": "Au88. diy nổ hũ",
+      "author_id": "7572481702715573249",
+      "like_count": 8,
+      "reply_count": 0,
+      "create_time": 1776085905,
+      "create_time_str": "2026-04-13 13:11:45 UTC"
+    },
+    {
+      "comment_id": "7628385340395815701",
+      "text": "Hết tuổi tham vọng rồi mà đời không cho nghỉ",
+      "author": "Nguyễn Bình An",
+      "author_id": "6617426375933181953",
+      "like_count": 8,
+      "reply_count": 0,
+      "create_time": 1776121905,
+      "create_time_str": "2026-04-13 23:11:45 UTC"
+    },
+    {
+      "comment_id": "7628331525738332936",
+      "text": "Bên đó khai thác tiềm năng, kích cầu hày thiệt, đỉnh của đỉnh tóp 1-2 nó khác biệt",
+      "author": "ĐỒNG HƯƠNG QUÁN : PHÚ QUỐC",
+      "author_id": "6762412779326882818",
+      "like_count": 8,
+      "reply_count": 0,
+      "create_time": 1776109356,
+      "create_time_str": "2026-04-13 19:42:36 UTC"
+    },
+    {
+      "comment_id": "7628269859374301968",
+      "text": "kco tgian hát karaoke",
+      "author": "️ ️ Kiến🐜  ️",
+      "author_id": "7160311580390704134",
+      "like_count": 10,
+      "reply_count": 0,
+      "create_time": 1776094996,
+      "create_time_str": "2026-04-13 15:43:16 UTC"
+    },
+    {
+      "comment_id": "7628478087180927762",
+      "text": "Cục văn hoá nhà người ta đúng đỉnh, nhà mình chưa thấy cục văn hoá đâu thì đã thấy các cục khác xuống hỏi thăm",
+      "author": "haiyen8866hd",
+      "author_id": "6946382210279064577",
+      "like_count": 5,
+      "reply_count": 0,
+      "create_time": 1776143474,
+      "create_time_str": "2026-04-14 05:11:14 UTC"
+    },
+    {
+      "comment_id": "7628421026929902357",
+      "text": "Hữu duyên mình xem free cho 5 bạn về 1 trong các lĩnh vực: Tình duyên, gia đạo, công danh, sự nghiệp, tiền tài năm Bính Ngọ 2026. B nào muốn xem follow rồi ib mình, gửi hình, ngày tháng năm sinh ( Có giờ sinh thì chính xác hơn nhé ạ ) Tại mình đang sống và làm việc ở Hàn nên k có thời gian nhiều nên chỉ hữu duyên lúc rãnh thôi ạ 🥰🥰",
+      "author": "Trần Thảo Nhi 🇻🇳🇰🇷",
+      "author_id": "7155098941901702146",
+      "like_count": 2,
+      "reply_count": 2,
+      "create_time": 1776130196,
+      "create_time_str": "2026-04-14 01:29:56 UTC"
+    },
+    {
+      "comment_id": "7629605208427823893",
+      "text": "[Sticker] ",
+      "author": "meo meo nhu nhu ✓",
+      "author_id": "7111207891700859905",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776405908,
+      "create_time_str": "2026-04-17 06:05:08 UTC"
+    },
+    {
+      "comment_id": "7629295323144094484",
+      "text": "nghe thấy thương qá😂",
+      "author": "Ký Duyên",
+      "author_id": "7281416880940762113",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776333756,
+      "create_time_str": "2026-04-16 10:02:36 UTC"
+    },
+    {
+      "comment_id": "7628792403591709461",
+      "text": "Nhưng bên ấy kích cầu du lịch giỏi phết luôn :)))",
+      "author": "Drawinglineart",
+      "author_id": "7081016641823179777",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776216664,
+      "create_time_str": "2026-04-15 01:31:04 UTC"
+    },
+    {
+      "comment_id": "7628497351909147408",
+      "text": "Ở vn chắc cấm hoặc dẹp nhỏ lại k lại mất trật tự ấy. Ở đấy mà hỗ trợ. Phải nói bên đấy nhanh nhạy thật.",
+      "author": "TIỆM MẸ TÔM ✅",
+      "author_id": "6528223496357691394",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776147969,
+      "create_time_str": "2026-04-14 06:26:09 UTC"
+    },
+    {
+      "comment_id": "7628496532207108872",
+      "text": "ông ấy lên đỉnh cao sự nghiệp khi đang ở độ tuổi ít tham vọng nhất",
+      "author": "Phạm Ngà",
+      "author_id": "7201855711163220994",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776147766,
+      "create_time_str": "2026-04-14 06:22:46 UTC"
+    },
+    {
+      "comment_id": "7628489347126772500",
+      "text": "nhiều phước",
+      "author": "Thịnh hoàng 👺",
+      "author_id": "7593819326152770561",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776146293,
+      "create_time_str": "2026-04-14 05:58:13 UTC"
+    },
+    {
+      "comment_id": "7628488721135207189",
+      "text": "nghỉ hưu xong rồi tôi mới chính thức bước lên đỉnh cao sự nghiệp 😂",
+      "author": "Lần Đầu Làm Mẹ",
+      "author_id": "6589349861312380929",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776145960,
+      "create_time_str": "2026-04-14 05:52:40 UTC"
+    },
+    {
+      "comment_id": "7628465383222182664",
+      "text": "thời mà đến có cản cx k đc ấy",
+      "author": "Hoàng Linh",
+      "author_id": "7346537365853258754",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776140521,
+      "create_time_str": "2026-04-14 04:22:01 UTC"
+    },
+    {
+      "comment_id": "7628457808681681671",
+      "text": "bên tq nó hôz trợ kinh thật, doanh nghiệp của nó làm ăn tốt nó còn thưởng thêm",
+      "author": "An béo",
+      "author_id": "7377005727779390470",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776138751,
+      "create_time_str": "2026-04-14 03:52:31 UTC"
+    },
+    {
+      "comment_id": "7628430085502796552",
+      "text": "Bên Trung cán bộ văn hoá và du lịch nảy số rất nhanh, rất nhiều trường hợp rồi chỉ có khả năng kích cầu du lịch địa phương là họ hỗ trợ nhanh luôn",
+      "author": "Khang Phát Travel",
+      "author_id": "6571056474461437954",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776132304,
+      "create_time_str": "2026-04-14 02:05:04 UTC"
+    },
+    {
+      "comment_id": "7628414236352643858",
+      "text": "Phải công nhận chính quyên bên đó nắm bắt tình hình nhanh thật",
+      "author": "Nguyễn Hằng",
+      "author_id": "6561295185422368769",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776128619,
+      "create_time_str": "2026-04-14 01:03:39 UTC"
+    },
+    {
+      "comment_id": "7628393889079018260",
+      "text": "Nhìn trán ổng kìa giống ông thọ ( phúc lộc thọ ) 🥰",
+      "author": "hihihhaha091",
+      "author_id": "6627014865784487937",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776123894,
+      "create_time_str": "2026-04-13 23:44:54 UTC"
+    },
+    {
+      "comment_id": "7629349496929944340",
+      "text": "Khoái :))",
+      "author": "a la vt a 🤓",
+      "author_id": "7470848751075165201",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776346370,
+      "create_time_str": "2026-04-16 13:32:50 UTC"
+    },
+    {
+      "comment_id": "7629339346130617096",
+      "text": "thế mới nói cs có khi cả đời vất vả tiền ko có nhưng đến 60-70 tuổi vui vui lại giàu ko tưởng.mà là giàu kinh khủng luôn🤣",
+      "author": "Juno",
+      "author_id": "6575722288192438274",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776344001,
+      "create_time_str": "2026-04-16 12:53:21 UTC"
+    },
+    {
+      "comment_id": "7628260653333562132",
+      "text": "Cơ địa khó rảnh",
+      "author": "Bạn vô tình tôi vô ơn",
+      "author_id": "7302726305518011394",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776092848,
+      "create_time_str": "2026-04-13 15:07:28 UTC"
+    },
+    {
+      "comment_id": "7628608332458410760",
+      "text": "nhà nước hỗ trợ thì quá tốt r",
+      "author": "kinich03",
+      "author_id": "7171462179869312027",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776173798,
+      "create_time_str": "2026-04-14 13:36:38 UTC"
+    },
+    {
+      "comment_id": "7628251938199995156",
+      "text": "Lại bán câu chuyện rôi😁",
+      "author": "DrB",
+      "author_id": "6554223424452280321",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776090825,
+      "create_time_str": "2026-04-13 14:33:45 UTC"
+    },
+    {
+      "comment_id": "7628591711748490000",
+      "text": "cái này đúng kiểu vừa khóc vừa làm",
+      "author": "Love len",
+      "author_id": "6583470700832407553",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776169926,
+      "create_time_str": "2026-04-14 12:32:06 UTC"
+    },
+    {
+      "comment_id": "7628219751298827029",
+      "text": "Tq ngta làm du lịch đỉnh nhỉ",
+      "author": "她的微笑",
+      "author_id": "7362674936832001029",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776083327,
+      "create_time_str": "2026-04-13 12:28:47 UTC"
+    },
+    {
+      "comment_id": "7628207155548406536",
+      "text": "ở thiên đường là 7t5",
+      "author": "Diệp [ Hy ]",
+      "author_id": "6582171658600726529",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776080395,
+      "create_time_str": "2026-04-13 11:39:55 UTC"
+    },
+    {
+      "comment_id": "7628572560749642517",
+      "text": "Hâhhaa",
+      "author": "HongNhung.08",
+      "author_id": "6799149848509252609",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776165470,
+      "create_time_str": "2026-04-14 11:17:50 UTC"
+    },
+    {
+      "comment_id": "7628536578113307410",
+      "text": "T xem video của Ninh ca mới biết quán này nè 😂",
+      "author": "Tiểu A Di  💃",
+      "author_id": "7121380560048538650",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776157092,
+      "create_time_str": "2026-04-14 08:58:12 UTC"
+    },
+    {
+      "comment_id": "7629289366687630088",
+      "text": "vất vả tuổi xế chiều",
+      "author": "Quinn Quinn0608",
+      "author_id": "6952524681396536322",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776332370,
+      "create_time_str": "2026-04-16 09:39:30 UTC"
+    },
+    {
+      "comment_id": "7628498545423106832",
+      "text": "\"hậu vận về sau sướng\" là đang ns đây sao 😂",
+      "author": "KunKin",
+      "author_id": "6826738510122501122",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776148236,
+      "create_time_str": "2026-04-14 06:30:36 UTC"
+    },
+    {
+      "comment_id": "7628492985327649556",
+      "text": "tính ra gia đình ông ai cũng thành công",
+      "author": "돈하고맥주사랑한아줌마🥰",
+      "author_id": "6912240098458108930",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776146946,
+      "create_time_str": "2026-04-14 06:09:06 UTC"
+    },
+    {
+      "comment_id": "7628490143028839189",
+      "text": "đúng người sai thời điểm",
+      "author": "MDũng đang đi lính 💎",
+      "author_id": "6923811119601746945",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776146286,
+      "create_time_str": "2026-04-14 05:58:06 UTC"
+    },
+    {
+      "comment_id": "7628484003947692808",
+      "text": "Chính quyền bên này đúng hỗ trợ nhân dân tốt thật, thấy mà thèm.",
+      "author": "Đặng Hưng",
+      "author_id": "6898198959291106305",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776144855,
+      "create_time_str": "2026-04-14 05:34:15 UTC"
+    },
+    {
+      "comment_id": "7628477852031763208",
+      "text": "Tăng giá phát mai k có ai",
+      "author": "Hoàng Tử Gotu kola",
+      "author_id": "7476791466728342545",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776143423,
+      "create_time_str": "2026-04-14 05:10:23 UTC"
+    },
+    {
+      "comment_id": "7628476110418936594",
+      "text": "Nghĩ tới rửa bát đĩa thôi đã sợ rồi 🤣🤣",
+      "author": "Mai Trang",
+      "author_id": "7105006208486638594",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776143018,
+      "create_time_str": "2026-04-14 05:03:38 UTC"
+    },
+    {
+      "comment_id": "7628473310325834497",
+      "text": "Vn mở kế bên cạnh tranh",
+      "author": "🍨 kem ý",
+      "author_id": "6760484339199771649",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776142367,
+      "create_time_str": "2026-04-14 04:52:47 UTC"
+    },
+    {
+      "comment_id": "7628470365090022164",
+      "text": "Ở hiền gặp hiền phiền🤣🤣🤣",
+      "author": "Mew Mew",
+      "author_id": "6842535481009193985",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776141842,
+      "create_time_str": "2026-04-14 04:44:02 UTC"
+    },
+    {
+      "comment_id": "7628460963223896852",
+      "text": "Đấy. Quan chức nhà người ta đấy. Ngoảnh đầu nhìn lại mình thì ối giời ơi",
+      "author": "Hoà lương",
+      "author_id": "7084833219585852418",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776139498,
+      "create_time_str": "2026-04-14 04:04:58 UTC"
+    },
+    {
+      "comment_id": "7628458455893148437",
+      "text": "Bên đó ngta có đua thành phố đua xã vs nhau mà, nên ngta có cơ hội là phát triển liền à",
+      "author": "ღNọᴄ",
+      "author_id": "6872572706556068865",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776138915,
+      "create_time_str": "2026-04-14 03:55:15 UTC"
+    },
+    {
+      "comment_id": "7628448868569088785",
+      "text": "người ta hỗ trợ doanh nghiệp vậy đó 😁😁😁",
+      "author": "Minh Quân 49@",
+      "author_id": "7057690908317451265",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776136674,
+      "create_time_str": "2026-04-14 03:17:54 UTC"
+    },
+    {
+      "comment_id": "7628445208615518996",
+      "text": "bên bển vui nhỉ",
+      "author": "yonytina",
+      "author_id": "7580062364873049096",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776135828,
+      "create_time_str": "2026-04-14 03:03:48 UTC"
+    },
+    {
+      "comment_id": "7628851496248689415",
+      "text": "khéo toàn nhân viên đến ăn rồi cười😂",
+      "author": "núp gầm giường nghe nhạc a(🦷)",
+      "author_id": "7538053127745766408",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776230420,
+      "create_time_str": "2026-04-15 05:20:20 UTC"
+    },
+    {
+      "comment_id": "7628439636683899668",
+      "text": "Nhìn cách lãnh đạo bên họ làm việc nhanh nhạy mà thèm....",
+      "author": "Gia Thiếu Ngọc",
+      "author_id": "7159522921928033306",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776134530,
+      "create_time_str": "2026-04-14 02:42:10 UTC"
+    },
+    {
+      "comment_id": "7628438934145630997",
+      "text": "nhà nước ngta quá khôn..hỗ trợ để tăng doanh thu tỉnh..cho nước mình",
+      "author": "@NinNin",
+      "author_id": "6609959949441302530",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776134361,
+      "create_time_str": "2026-04-14 02:39:21 UTC"
+    },
+    {
+      "comment_id": "7628437414072369941",
+      "text": "ở nơi nào đó\nmất trật tự công cộng\nDẸP!!!!!!!",
+      "author": "HP-Lâm cà chớn🎣🎣🎣",
+      "author_id": "6806642627523871745",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776134019,
+      "create_time_str": "2026-04-14 02:33:39 UTC"
+    },
+    {
+      "comment_id": "7628435749063197461",
+      "text": "Chúc ai thấy cmt này có 2 ngày mới thật may nắm. 🥰🥰🥰",
+      "author": "Beo anh Cáo",
+      "author_id": "7584834159123891217",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776133626,
+      "create_time_str": "2026-04-14 02:27:06 UTC"
+    },
+    {
+      "comment_id": "7628434617830294293",
+      "text": "hổ trợ nghe mà xám hồn🥰🥰🥰. Nhưng mấy ai đc như chú.",
+      "author": "Nguyễn Diệu Hạnh",
+      "author_id": "7592253710701446161",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776133363,
+      "create_time_str": "2026-04-14 02:22:43 UTC"
+    },
+    {
+      "comment_id": "7628407169906918162",
+      "text": "nhà nước VN nên học hỏi và hỗ trợ người kinh doanh như thế này nè",
+      "author": "Kha Kha",
+      "author_id": "7557884793170461703",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776126979,
+      "create_time_str": "2026-04-14 00:36:19 UTC"
+    },
+    {
+      "comment_id": "7628828725963391764",
+      "text": "tại nấu quá Ngon nên mới đông như vậy",
+      "author": "Nguyệt",
+      "author_id": "7284973865851110401",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776225126,
+      "create_time_str": "2026-04-15 03:52:06 UTC"
+    },
+    {
+      "comment_id": "7628394885317755656",
+      "text": "nhà hàng nối tiếng Bất đắc dĩ",
+      "author": "quang trình",
+      "author_id": "7592123924910507026",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776124111,
+      "create_time_str": "2026-04-13 23:48:31 UTC"
+    },
+    {
+      "comment_id": "7629246186792649480",
+      "text": "Xin vía bán Loa bằng 1/10 chú bán gà kk",
+      "author": "Shop Loa Hay",
+      "author_id": "7621815690022093842",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776322309,
+      "create_time_str": "2026-04-16 06:51:49 UTC"
+    },
+    {
+      "comment_id": "7628392552164967176",
+      "text": "Ság sớm xem vui trong người thật sự😂😂😂",
+      "author": "Chang Em🇻🇳",
+      "author_id": "6767561810050057218",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776123572,
+      "create_time_str": "2026-04-13 23:39:32 UTC"
+    },
+    {
+      "comment_id": "7628814777230361362",
+      "text": "Đấy. Ai bảo nếu cuộc đời ko rực rỡ thì sao đấy. Rực rỡ rồi đấy. Sướng chưa🤣🤣",
+      "author": "Anh Quan",
+      "author_id": "6566921908334592001",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776221873,
+      "create_time_str": "2026-04-15 02:57:53 UTC"
+    },
+    {
+      "comment_id": "7628789001746760469",
+      "text": "Lỡ cả đời này ko rực rỡ thì sao :))))",
+      "author": "Ngủ Mớ",
+      "author_id": "7415750308741678096",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776215873,
+      "create_time_str": "2026-04-15 01:17:53 UTC"
+    },
+    {
+      "comment_id": "7629224355227271956",
+      "text": "🤣🤣🤣🤣 vui vẻ",
+      "author": "B_É 🍓",
+      "author_id": "7123342016772408322",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776317238,
+      "create_time_str": "2026-04-16 05:27:18 UTC"
+    },
+    {
+      "comment_id": "7629220787823690517",
+      "text": "Ước đc như bác 😳",
+      "author": "Mèo con bán mọi thứ 🦅",
+      "author_id": "7368364942326154257",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776316400,
+      "create_time_str": "2026-04-16 05:13:20 UTC"
+    },
+    {
+      "comment_id": "7628768271798616833",
+      "text": "Nhìn sang nước bạn thật ngưỡng mộ",
+      "author": "Nguyễn Minh",
+      "author_id": "6567313695449825281",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776211053,
+      "create_time_str": "2026-04-14 23:57:33 UTC"
+    },
+    {
+      "comment_id": "7629217064692138773",
+      "text": "Xin vía 🥰🥰",
+      "author": "Nội & Ngoại Thất Thuận Phú",
+      "author_id": "7147335380630062106",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776315544,
+      "create_time_str": "2026-04-16 04:59:04 UTC"
+    },
+    {
+      "comment_id": "7628278473577186056",
+      "text": "nếu cả đời rực rỡ quá thì sao😆",
+      "author": "Kỳ Anh",
+      "author_id": "7020671036061287450",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776096998,
+      "create_time_str": "2026-04-13 16:16:38 UTC"
+    },
+    {
+      "comment_id": "7629195389723607829",
+      "text": "đc mấy tháng rồi lại kêu hết khách, quá quen, nhưng từng đó kiếm cũng khá",
+      "author": "Phạm Tân",
+      "author_id": "6795144605576512514",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776310490,
+      "create_time_str": "2026-04-16 03:34:50 UTC"
+    },
+    {
+      "comment_id": "7628228982127411988",
+      "text": "lập tài khoản mới mà ko ăn thua",
+      "author": "học tiếng sang Taiwan 🇹🇼",
+      "author_id": "6838099872228426753",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776085478,
+      "create_time_str": "2026-04-13 13:04:38 UTC"
+    },
+    {
+      "comment_id": "7628204892952773384",
+      "text": "sao giống truyện audio z",
+      "author": "Bùi Đức Tâm",
+      "author_id": "6560127329112424450",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776079877,
+      "create_time_str": "2026-04-13 11:31:17 UTC"
+    },
+    {
+      "comment_id": "7629182025807790856",
+      "text": "những cái hay vầy vn nên học nè. giúp dân và địa phương phát triển.",
+      "author": "si",
+      "author_id": "7381502443324851206",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776307377,
+      "create_time_str": "2026-04-16 02:42:57 UTC"
+    },
+    {
+      "comment_id": "7628194078983422721",
+      "text": "[Sticker] ",
+      "author": "nghĩa địa thiếu bóng em👻",
+      "author_id": "6961761639541457921",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776077349,
+      "create_time_str": "2026-04-13 10:49:09 UTC"
+    },
+    {
+      "comment_id": "7628674043331986196",
+      "text": "Nhân viên đâu k thuê mà cả gia đình phải về làm",
+      "author": "Set up Nhà Hàng Nhật",
+      "author_id": "6802426719393694722",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776189100,
+      "create_time_str": "2026-04-14 17:51:40 UTC"
+    },
+    {
+      "comment_id": "7628619019545969440",
+      "text": "nếu cả đời rực rỡ quá thì sao😆",
+      "author": "68gb vn space siêu cấp pl",
+      "author_id": "7534936952841307159",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776176298,
+      "create_time_str": "2026-04-14 14:18:18 UTC"
+    },
+    {
+      "comment_id": "7628609788733817607",
+      "text": "Nghỉ hưu cũng k yên",
+      "author": "Ngọc 😎",
+      "author_id": "7097363670116500481",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776174136,
+      "create_time_str": "2026-04-14 13:42:16 UTC"
+    },
+    {
+      "comment_id": "7628606816639632148",
+      "text": "Vãi thật.",
+      "author": "Tuệ",
+      "author_id": "7481852739488646164",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776173447,
+      "create_time_str": "2026-04-14 13:30:47 UTC"
+    },
+    {
+      "comment_id": "7628604987039515399",
+      "text": "Tên Ngo? Chú Ngo?",
+      "author": "ttm",
+      "author_id": "6943623992080253953",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776173017,
+      "create_time_str": "2026-04-14 13:23:37 UTC"
+    },
+    {
+      "comment_id": "7628595938709472020",
+      "text": "muốn nghỉ hưu lắm rồi mà",
+      "author": "gà không trứng",
+      "author_id": "6774691183420638209",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776170911,
+      "create_time_str": "2026-04-14 12:48:31 UTC"
+    },
+    {
+      "comment_id": "7628573385140093704",
+      "text": "cho bao nhiêu mà quảng cáo dữ thế",
+      "author": "TonyPhan852021",
+      "author_id": "7018191387883881473",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776165657,
+      "create_time_str": "2026-04-14 11:20:57 UTC"
+    },
+    {
+      "comment_id": "7628553975223452437",
+      "text": "Ko ngon mà đông cỡ đó 😳😳",
+      "author": "Thanh Loan Vừa Ở VN 🇯🇵🇻🇳",
+      "author_id": "7627534795808424981",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776161151,
+      "create_time_str": "2026-04-14 10:05:51 UTC"
+    },
+    {
+      "comment_id": "7628543671298540295",
+      "text": "này thì tổng tài",
+      "author": "Ngoc  💎",
+      "author_id": "7510636596036764679",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776158746,
+      "create_time_str": "2026-04-14 09:25:46 UTC"
+    },
+    {
+      "comment_id": "7628533218119697160",
+      "text": "Đấy phải thế",
+      "author": "Vạn sự tùy Duyên",
+      "author_id": "6606586877607051266",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776156312,
+      "create_time_str": "2026-04-14 08:45:12 UTC"
+    },
+    {
+      "comment_id": "7628530694923125512",
+      "text": "Lúc bác thành công nhất lại là lúc bác lười nhất 😂",
+      "author": "V",
+      "author_id": "6711267469086622722",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776155726,
+      "create_time_str": "2026-04-14 08:35:26 UTC"
+    },
+    {
+      "comment_id": "7628510785728627463",
+      "text": "Bên này làm du lịch đỉnh nhỉ. Thấy quán hot là hỗ trợ nhiệt tình luôn. Nhưng như vậy thì kéo được cả làng cùng hot, xong mở thêm cái nọ cái kia kích cầu du lịch đi lên luôn.",
+      "author": "Sam Sóc Sữa",
+      "author_id": "6993623266583053339",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776151095,
+      "create_time_str": "2026-04-14 07:18:15 UTC"
+    },
+    {
+      "comment_id": "7628485793195066130",
+      "text": "nghỉ hưu gặp nghỉ ngơi đi ăn lẩu 😂",
+      "author": "✰ａｕ88ｖｎ.ｓｐａｃｅ-nạp là lộc",
+      "author_id": "7119670248387118106",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776145269,
+      "create_time_str": "2026-04-14 05:41:09 UTC"
+    },
+    {
+      "comment_id": "7628482981028086536",
+      "text": "tại chú chứ tạii ai 🤣, đã đi ngang qua còn mời nhiệt tình 🤣",
+      "author": "Terry",
+      "author_id": "6918293693113353217",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776144616,
+      "create_time_str": "2026-04-14 05:30:16 UTC"
+    },
+    {
+      "comment_id": "7628476225329693461",
+      "text": "Cậu dịch hộ tớ , tớ muốn sang hoc viêc",
+      "author": "Kẹo ngọt",
+      "author_id": "6961379950662566913",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776143047,
+      "create_time_str": "2026-04-14 05:04:07 UTC"
+    },
+    {
+      "comment_id": "7628438716466889479",
+      "text": "Những ánh mắt thất thần. Những nụ cười ngờ nghệch.",
+      "author": "LQ-TV",
+      "author_id": "7382131075668296710",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776134316,
+      "create_time_str": "2026-04-14 02:38:36 UTC"
+    },
+    {
+      "comment_id": "7628438317114180359",
+      "text": "đúng là một người kéo cả nền du lịch 😂",
+      "author": "⚘☙༄❦ℌค𝔬𝔥є𝔦𝔫❦༄☘❧",
+      "author_id": "6775302897720574978",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776134220,
+      "create_time_str": "2026-04-14 02:37:00 UTC"
+    },
+    {
+      "comment_id": "7628432078237188871",
+      "text": "Đau đầu vì đông khách là có thật😂😂",
+      "author": "инâиѕιининưмộиɢ",
+      "author_id": "7260072195601744914",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776132763,
+      "create_time_str": "2026-04-14 02:12:43 UTC"
+    },
+    {
+      "comment_id": "7628425457172562696",
+      "text": "VN mình là lại bị phạt. Rồi lại csgt phạt và phạt thôi",
+      "author": "Hieu Duong",
+      "author_id": "6593184273681924097",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776131223,
+      "create_time_str": "2026-04-14 01:47:03 UTC"
+    },
+    {
+      "comment_id": "7628424826416104199",
+      "text": "Tq nó là vậy. Hiệu ứng tò mò rất cao. Họ ủng hộ nhau rất nhiều.",
+      "author": "Nắng ☘️",
+      "author_id": "7483437587765511175",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776131082,
+      "create_time_str": "2026-04-14 01:44:42 UTC"
+    },
+    {
+      "comment_id": "7628421363410502402",
+      "text": "hoạ đi phúc sẽ đến",
+      "author": "Tâm Trạng💔",
+      "author_id": "7506402495175099414",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776130340,
+      "create_time_str": "2026-04-14 01:32:20 UTC"
+    },
+    {
+      "comment_id": "7628418460414591752",
+      "text": "Người có lộc tới cản ko kịp",
+      "author": "Gỗ",
+      "author_id": "6793122209046643713",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776129594,
+      "create_time_str": "2026-04-14 01:19:54 UTC"
+    },
+    {
+      "comment_id": "7628399579729806100",
+      "text": "Cán bộ bển đỉnh thật.",
+      "author": "🍀🍀Vũ Hà Tóc Mây🍀🍀",
+      "author_id": "6641335370733256705",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776125210,
+      "create_time_str": "2026-04-14 00:06:50 UTC"
+    },
+    {
+      "comment_id": "7628392398234239745",
+      "text": "Xin vía ông chút lộc lá",
+      "author": "nguyên  thư",
+      "author_id": "6591430289283825666",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776123532,
+      "create_time_str": "2026-04-13 23:38:52 UTC"
+    },
+    {
+      "comment_id": "7628388149568111381",
+      "text": "Ở VN thì … 7,5tr :))",
+      "author": "user10983777aj",
+      "author_id": "7358501904391144454",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776122550,
+      "create_time_str": "2026-04-13 23:22:30 UTC"
+    },
+    {
+      "comment_id": "7629005823667487508",
+      "text": "nhân viên kiểu sao nay thèm gà vậy ta thôi qua nhà sếp ăn 😁",
+      "author": "học cách kệ mẹ mọi thứ 😇",
+      "author_id": "7565907153833706516",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776266351,
+      "create_time_str": "2026-04-15 15:19:11 UTC"
+    },
+    {
+      "comment_id": "7628305387355390737",
+      "text": "Phải nói chính quyền địa phương nhanh thật, vì các tình thành khác đều làm được nên bản thân địa phương này khi có sự kiện cũng làm theo để vừa có doanh thu vừa được khen thưởng.",
+      "author": "Sữa Đậu Cô Mười - 80Tiểu La/Đn",
+      "author_id": "7022992064929629211",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776103263,
+      "create_time_str": "2026-04-13 18:01:03 UTC"
+    },
+    {
+      "comment_id": "7628263070544560904",
+      "text": "Phải công nhận chính quyền bên họ nắm bắt cơ hội và hỗ trợ DN quá tốt",
+      "author": "Linh Vũ",
+      "author_id": "7087239320025498625",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776093410,
+      "create_time_str": "2026-04-13 15:16:50 UTC"
+    },
+    {
+      "comment_id": "7628255832618517266",
+      "text": "Mở luôn chuỗi nhà hàng😅",
+      "author": "Đoàn❤️Mai",
+      "author_id": "7346443333373658113",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776091722,
+      "create_time_str": "2026-04-13 14:48:42 UTC"
+    },
+    {
+      "comment_id": "7628247156289291028",
+      "text": "lựa đúng ng sai thời điểm...",
+      "author": "red.laught",
+      "author_id": "7363531887845245959",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776089705,
+      "create_time_str": "2026-04-13 14:15:05 UTC"
+    },
+    {
+      "comment_id": "7628906751971197714",
+      "text": "ăn thiệt hả 😂",
+      "author": "Tự Tại",
+      "author_id": "7467532361443623943",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776243283,
+      "create_time_str": "2026-04-15 08:54:43 UTC"
+    },
+    {
+      "comment_id": "7628902584681546517",
+      "text": "Tiệm media tặng máy lạnh máy giặt lun!",
+      "author": "Mika Úc 🇦🇺 Melbourne",
+      "author_id": "6595338619019689986",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776242309,
+      "create_time_str": "2026-04-15 08:38:29 UTC"
+    },
+    {
+      "comment_id": "7628804888471175944",
+      "text": "Thấy chưa. Cứ chịu khó ai rồi cũng sẽ có thời kỳ hoàng kim. Mới 30-40 thì vội gì 😂. Nta còn 6-70 rồi kia 😂",
+      "author": "Goku",
+      "author_id": "6871058408775648258",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776219571,
+      "create_time_str": "2026-04-15 02:19:31 UTC"
+    },
+    {
+      "comment_id": "7628780384424592148",
+      "text": "😂😂😂Lộc đến xế chiều",
+      "author": "EM LA ĐẠI DƯƠNG✅",
+      "author_id": "6569891217985863681",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776213882,
+      "create_time_str": "2026-04-15 00:44:42 UTC"
+    },
+    {
+      "comment_id": "7628773725203251976",
+      "text": "Thắc mắc đông thế thì chất lượng có xuống ko mà họ vẫn kéo tới nhỉe",
+      "author": "Hong Tham Phan",
+      "author_id": "6523785005989953538",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776212318,
+      "create_time_str": "2026-04-15 00:18:38 UTC"
+    },
+    {
+      "comment_id": "7628657674620142343",
+      "text": "🤭thời đến méo đỡ nổi",
+      "author": "Tran Lee",
+      "author_id": "6941784645667292161",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776185285,
+      "create_time_str": "2026-04-14 16:48:05 UTC"
+    },
+    {
+      "comment_id": "7628643933362914049",
+      "text": "cái tuổi cần tien thì chua tới thời",
+      "author": "pee Collagen",
+      "author_id": "7500531851150476304",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776182086,
+      "create_time_str": "2026-04-14 15:54:46 UTC"
+    },
+    {
+      "comment_id": "7628631649254687496",
+      "text": "[Sticker] ông chủ 🥰",
+      "author": "trầm tính lạnh lùng nhất lớp",
+      "author_id": "7430436142925202439",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776179228,
+      "create_time_str": "2026-04-14 15:07:08 UTC"
+    },
+    {
+      "comment_id": "7628620926355948309",
+      "text": "tự nhiên tội lỗi vô lượng 😁😅",
+      "author": "vân trường",
+      "author_id": "7108722114237170689",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776176732,
+      "create_time_str": "2026-04-14 14:25:32 UTC"
+    },
+    {
+      "comment_id": "7628617344542753544",
+      "text": "Ở cái tuổi k ham hư vinh thì lại là thời kỳ đỉnh cao của sự nghiệp",
+      "author": "Minh Thư",
+      "author_id": "6674157598948836354",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776175895,
+      "create_time_str": "2026-04-14 14:11:35 UTC"
+    },
+    {
+      "comment_id": "7628609350382617365",
+      "text": "Trời đã thương thì làm người thường cũng khó",
+      "author": "Phan Văn Trường",
+      "author_id": "7318329178297336833",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776174035,
+      "create_time_str": "2026-04-14 13:40:35 UTC"
+    },
+    {
+      "comment_id": "7628601222307513106",
+      "text": "Thời tới cảng không nổi 😂😂😂",
+      "author": "Nguyễn Dư ✅",
+      "author_id": "6689147771485979649",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776172140,
+      "create_time_str": "2026-04-14 13:09:00 UTC"
+    },
+    {
+      "comment_id": "7628600375486038800",
+      "text": "Cuối đời mà phải sống cuộc đời Rực Rỡ sao😂",
+      "author": "ThiUyenUyen",
+      "author_id": "6810732081384178690",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776171946,
+      "create_time_str": "2026-04-14 13:05:46 UTC"
+    },
+    {
+      "comment_id": "7628599735754998546",
+      "text": "xin vía buôn mai bán đắt ma zui nhu chú",
+      "author": "Kim Xuyến",
+      "author_id": "7021898003556975617",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776171797,
+      "create_time_str": "2026-04-14 13:03:17 UTC"
+    },
+    {
+      "comment_id": "7628596794842809104",
+      "text": "TQ làm du lịch kiểu này rất đỉnh nhớ",
+      "author": "Niềm vui đến muộn🍀",
+      "author_id": "6739299977216754690",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776171116,
+      "create_time_str": "2026-04-14 12:51:56 UTC"
+    },
+    {
+      "comment_id": "7628593383020643092",
+      "text": "Ăn ngon quá cũng khổ 😂😂😂",
+      "author": "Chuỳ Phản Kích",
+      "author_id": "6846295252177781762",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776170327,
+      "create_time_str": "2026-04-14 12:38:47 UTC"
+    },
+    {
+      "comment_id": "7628585718050636564",
+      "text": "[Sticker] Chủ tiệm kiểu",
+      "author": "Gác bếp Kon Tum 🤡",
+      "author_id": "7437095740654306320",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776168535,
+      "create_time_str": "2026-04-14 12:08:55 UTC"
+    },
+    {
+      "comment_id": "7628577422337704712",
+      "text": "bà bán rượu đã đợi rất lâu nhưng vẫn chưa thấy khách ruột đến",
+      "author": "Hứa Mạnh Quân",
+      "author_id": "7062941415718896642",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776166599,
+      "create_time_str": "2026-04-14 11:36:39 UTC"
+    },
+    {
+      "comment_id": "7628576933190845200",
+      "text": "thời tới dẹp ko kịp😂",
+      "author": "Kiệt trần",
+      "author_id": "6800502419563414529",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776166491,
+      "create_time_str": "2026-04-14 11:34:51 UTC"
+    },
+    {
+      "comment_id": "7628570009597526801",
+      "text": "Thì mở nhà hàng đi, chứ mở quán tự làm k thì mệt ẻ 🤣",
+      "author": "🐽 Lợn nhựa ở Đức 🇩🇪",
+      "author_id": "6693295051848451073",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776164873,
+      "create_time_str": "2026-04-14 11:07:53 UTC"
+    },
+    {
+      "comment_id": "7628556594321998593",
+      "text": "\"lỡ cả đời rực rỡ quá r sao\"",
+      "author": "Bùi Toàn Armory",
+      "author_id": "6958758713609470978",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776161758,
+      "create_time_str": "2026-04-14 10:15:58 UTC"
+    },
+    {
+      "comment_id": "7628549888515572487",
+      "text": "Bên trung làm về văn hoá thì quá tốt",
+      "author": "D.louis",
+      "author_id": "6764987601210180609",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776160193,
+      "create_time_str": "2026-04-14 09:49:53 UTC"
+    },
+    {
+      "comment_id": "7628547432074838804",
+      "text": "😂😂😂😂😂 Chưa có thuê con ko chú",
+      "author": "Minh Ngoc Tran",
+      "author_id": "6842970799822357506",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776159621,
+      "create_time_str": "2026-04-14 09:40:21 UTC"
+    },
+    {
+      "comment_id": "7628546841077138192",
+      "text": "t tưởng mấy ảnh canh gần đó đo ndc chớ",
+      "author": "💍🔨",
+      "author_id": "6994495028107527169",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776159486,
+      "create_time_str": "2026-04-14 09:38:06 UTC"
+    },
+    {
+      "comment_id": "7628546841077138192",
+      "text": "t tưởng mấy ảnh canh gần đó đo ndc chớ",
+      "author": "💍🔨",
+      "author_id": "6994495028107527169",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776159486,
+      "create_time_str": "2026-04-14 09:38:06 UTC"
+    },
+    {
+      "comment_id": "7628541155277325076",
+      "text": "\"thời tới cản sao nổi \"",
+      "author": "Thiện Văn LMHG",
+      "author_id": "7435691170392654903",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776158158,
+      "create_time_str": "2026-04-14 09:15:58 UTC"
+    },
+    {
+      "comment_id": "7628534124228182800",
+      "text": "Ngon dữ vậy hả",
+      "author": "Cà Khịa là sở thích",
+      "author_id": "7525483062303196176",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776156526,
+      "create_time_str": "2026-04-14 08:48:46 UTC"
+    },
+    {
+      "comment_id": "7628533786687226645",
+      "text": "tưởng ở Việt Nam",
+      "author": "Le Vuong",
+      "author_id": "6864912661693875202",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776156448,
+      "create_time_str": "2026-04-14 08:47:28 UTC"
+    },
+    {
+      "comment_id": "7628526420796736273",
+      "text": "ô con trai nhìn đẹp trai thật. tổng tài đúng nghĩa 😂",
+      "author": "Tidusstar",
+      "author_id": "7072377660189606914",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776154735,
+      "create_time_str": "2026-04-14 08:18:55 UTC"
+    },
+    {
+      "comment_id": "7628520903290880769",
+      "text": "muốn cuộc sống chill chill cuối đời ai ngờ 😂😂😂",
+      "author": "thu trà",
+      "author_id": "7546970873900254225",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776153445,
+      "create_time_str": "2026-04-14 07:57:25 UTC"
+    },
+    {
+      "comment_id": "7628517481112421138",
+      "text": "sao ko tăng giá gấp 3 lâng",
+      "author": "Sound of silence",
+      "author_id": "6858109182840357890",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776152649,
+      "create_time_str": "2026-04-14 07:44:09 UTC"
+    },
+    {
+      "comment_id": "7628515215730393876",
+      "text": "nhân viên đến thấy sếp đang phục vụ 🤣",
+      "author": "cá custom mô hình",
+      "author_id": "6658798357124038657",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776152122,
+      "create_time_str": "2026-04-14 07:35:22 UTC"
+    },
+    {
+      "comment_id": "7628514223518483207",
+      "text": "Đấy sự nghiệp chỉ là chưa đến thôi mà, già nhất định mình sẽ thành công! 😁",
+      "author": "Làm Nông Ở Phố",
+      "author_id": "7555121478150259730",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776151893,
+      "create_time_str": "2026-04-14 07:31:33 UTC"
+    },
+    {
+      "comment_id": "7628511867387839252",
+      "text": "Bên mình cũng vậy thôi , chỉ cần gia đình nào thu hút được khách du lịch về thì chính quyền địa phương sẽ hỗ trợ hết mình luôn",
+      "author": "2/12/2025",
+      "author_id": "7166200316245132290",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776151339,
+      "create_time_str": "2026-04-14 07:22:19 UTC"
+    },
+    {
+      "comment_id": "7628510741477376775",
+      "text": "thời tới. cản không nổi là có thật 😅",
+      "author": "phong hỏa giai nhân",
+      "author_id": "7533961561061803026",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776151075,
+      "create_time_str": "2026-04-14 07:17:55 UTC"
+    },
+    {
+      "comment_id": "7628506875373339412",
+      "text": "Nhìn nước ngta xong nhìn lại mình …. À mà thôi “ bảy chịu gửi ” 😂😂",
+      "author": "duy.anh.17..3.1985",
+      "author_id": "7411209364331119617",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776150178,
+      "create_time_str": "2026-04-14 07:02:58 UTC"
+    },
+    {
+      "comment_id": "7628505420928860946",
+      "text": "phải nói chi huyện xóm này kích cầu du lịch quá nhanh! nhà nước nên tuyên dương!🥰🥰🥰",
+      "author": "999 Lương Thủy Tiên",
+      "author_id": "6926450061937640450",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776149841,
+      "create_time_str": "2026-04-14 06:57:21 UTC"
+    },
+    {
+      "comment_id": "7628503547533427472",
+      "text": "nhà nước nta thế chứ",
+      "author": "Duong Nguyen",
+      "author_id": "6535410307921166338",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776149410,
+      "create_time_str": "2026-04-14 06:50:10 UTC"
+    },
+    {
+      "comment_id": "7628503318659187476",
+      "text": "Tr ơi bay đừng tới nữa t mệt lắm rồi 🤣",
+      "author": ".........",
+      "author_id": "6914958921665463298",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776149356,
+      "create_time_str": "2026-04-14 06:49:16 UTC"
+    },
+    {
+      "comment_id": "7628498311678264072",
+      "text": "Bố m mệt lắm rồi đấy",
+      "author": "bi",
+      "author_id": "7183211965542892571",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776148183,
+      "create_time_str": "2026-04-14 06:29:43 UTC"
+    },
+    {
+      "comment_id": "7628497797117559573",
+      "text": "có khi chủ đang làm gặp nv đi du lịch tưởng chủ đang đi lm thuê🤣",
+      "author": "chillッ",
+      "author_id": "7410749552799695880",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776148069,
+      "create_time_str": "2026-04-14 06:27:49 UTC"
+    },
+    {
+      "comment_id": "7628495637248394002",
+      "text": "thì thuê người làm mắc gì phải đến việc con phải làm",
+      "author": "dagiang",
+      "author_id": "7160337533045457922",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776147564,
+      "create_time_str": "2026-04-14 06:19:24 UTC"
+    },
+    {
+      "comment_id": "7628493463588537105",
+      "text": "Bác cho em xin tí vía với ạ...🥰",
+      "author": "Vương vui vẻ",
+      "author_id": "7122072259816899585",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776147057,
+      "create_time_str": "2026-04-14 06:10:57 UTC"
+    },
+    {
+      "comment_id": "7628491304665727764",
+      "text": "ông trú lúc bình thường bán tới tối là đi karaoke rồi giờ dẹp luôn",
+      "author": "Nguyễn Thịnh12075",
+      "author_id": "6593606391204773890",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776146553,
+      "create_time_str": "2026-04-14 06:02:33 UTC"
+    },
+    {
+      "comment_id": "7628488821030241045",
+      "text": "sao ko thuê thêm nhân viên vậy",
+      "author": "mỡ",
+      "author_id": "6972462538135864322",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776145979,
+      "create_time_str": "2026-04-14 05:52:59 UTC"
+    },
+    {
+      "comment_id": "7628485177790415636",
+      "text": "lãnh đạo quá đẳng cấp 🥰",
+      "author": "1 hero ragebait",
+      "author_id": "7448073269477147664",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776145129,
+      "create_time_str": "2026-04-14 05:38:49 UTC"
+    },
+    {
+      "comment_id": "7628484027536999189",
+      "text": "con gái chú đẹp quá",
+      "author": "Thảo Nguyên",
+      "author_id": "7283698757698307077",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776144867,
+      "create_time_str": "2026-04-14 05:34:27 UTC"
+    },
+    {
+      "comment_id": "7628481469992878869",
+      "text": "Chú said: tiền nong gì tầm này 😁",
+      "author": "Nương Tiểu Bắp 🌽",
+      "author_id": "7515785835360650296",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776144270,
+      "create_time_str": "2026-04-14 05:24:30 UTC"
+    },
+    {
+      "comment_id": "7628480229593432852",
+      "text": "lãnh đạo bên họ đỉnh thật sự 💯₫🥰🥰",
+      "author": "Khang Trần√ 1990",
+      "author_id": "6832410524946646017",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776143975,
+      "create_time_str": "2026-04-14 05:19:35 UTC"
+    },
+    {
+      "comment_id": "7628472394130686740",
+      "text": "\"Thuận trời thì phất, thất thời thì ẩn\" 😂😂",
+      "author": "Mạc Lâm Khánh",
+      "author_id": "6791266761817408513",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776142150,
+      "create_time_str": "2026-04-14 04:49:10 UTC"
+    },
+    {
+      "comment_id": "7628469909680898824",
+      "text": "coi tin này mấy hum nay rùi nhưng chúa có clip nào đầy đủ mà nét như clup này 😂😂🥰🥰",
+      "author": "shila manyla 999",
+      "author_id": "6766378042006930433",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776141574,
+      "create_time_str": "2026-04-14 04:39:34 UTC"
+    },
+    {
+      "comment_id": "7628469066768614164",
+      "text": "đến tuổi ensure rồi mà khách tới k cho bác nghỉ uống ensure luôn khổ thân bác",
+      "author": "Too Too dung",
+      "author_id": "7083742523639153666",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776141379,
+      "create_time_str": "2026-04-14 04:36:19 UTC"
+    },
+    {
+      "comment_id": "7628467106745615112",
+      "text": "giàu đỡ ko kịp là đây",
+      "author": "Cây thuốc Phi Châu",
+      "author_id": "6951653611592516609",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776140920,
+      "create_time_str": "2026-04-14 04:28:40 UTC"
+    },
+    {
+      "comment_id": "7628466363825292040",
+      "text": "lãnh đạo , có tầm nhìn xa và hỗ trợ rất nhanh tuyệt vời . mong VN cũng được vậy",
+      "author": "Na Nguyễn thị",
+      "author_id": "6538578341640650753",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776140749,
+      "create_time_str": "2026-04-14 04:25:49 UTC"
+    },
+    {
+      "comment_id": "7628464329579643649",
+      "text": "bán hàng thế này mới sướng nhưng mệt 😅",
+      "author": "Đội Quân Ăn Dặm",
+      "author_id": "7268725670619857926",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776140280,
+      "create_time_str": "2026-04-14 04:18:00 UTC"
+    },
+    {
+      "comment_id": "7628463838861509397",
+      "text": "vn mình bao h dc tn",
+      "author": "Kiều xinh gái",
+      "author_id": "6776171415169106945",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776140160,
+      "create_time_str": "2026-04-14 04:16:00 UTC"
+    },
+    {
+      "comment_id": "7628463405125780232",
+      "text": "ngta hỗ trợ các kiểu. Ở mình thì nào là đủ các sở ban nghành đến... luôn",
+      "author": "Thành 37",
+      "author_id": "7212893799293666331",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776140065,
+      "create_time_str": "2026-04-14 04:14:25 UTC"
+    },
+    {
+      "comment_id": "7628461619211617032",
+      "text": "nghe nó vừa hài vừa vui",
+      "author": "quyết không mua đồ online nữa",
+      "author_id": "7274580666036175890",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776139643,
+      "create_time_str": "2026-04-14 04:07:23 UTC"
+    },
+    {
+      "comment_id": "7628460983758390023",
+      "text": "Kích cầu phát triển du lịch, tạo thêm việc làm cho ng dân . Thuê thêm nhân viên có sao đâu nhỉ",
+      "author": "Ngô Thiên Hảo",
+      "author_id": "6736551242253861890",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776139501,
+      "create_time_str": "2026-04-14 04:05:01 UTC"
+    },
+    {
+      "comment_id": "7628458112349127444",
+      "text": "Chú nhả vía đông khách cho cháu đi ạ 😂",
+      "author": "Giolux",
+      "author_id": "7247389322960667654",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776138825,
+      "create_time_str": "2026-04-14 03:53:45 UTC"
+    },
+    {
+      "comment_id": "7628456913421255432",
+      "text": "Chú nhường vía cho cháu đi ạ",
+      "author": "ECHANG88",
+      "author_id": "6925598386129814529",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776138550,
+      "create_time_str": "2026-04-14 03:49:10 UTC"
+    },
+    {
+      "comment_id": "7628456812169249544",
+      "text": "Trời đã thương thì làm người thường cũng khó 😅",
+      "author": "Yêu em Chingg",
+      "author_id": "6818522520871322625",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776138521,
+      "create_time_str": "2026-04-14 03:48:41 UTC"
+    },
+    {
+      "comment_id": "7628454747867185928",
+      "text": "đúng là có thời muốn nghỉ cũng ko được",
+      "author": "Thanh phong",
+      "author_id": "6851906911382635521",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776138039,
+      "create_time_str": "2026-04-14 03:40:39 UTC"
+    },
+    {
+      "comment_id": "7628453611631002376",
+      "text": "ở mình chắc dọn từ ngày đầu luôn ,",
+      "author": "☯Ma-Đạo☯",
+      "author_id": "6994271649110983681",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776137780,
+      "create_time_str": "2026-04-14 03:36:20 UTC"
+    },
+    {
+      "comment_id": "7628453026026210064",
+      "text": "phải thuê thêm người chứ nhỉ",
+      "author": "quochungnguyen740",
+      "author_id": "7096471254773171201",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776137657,
+      "create_time_str": "2026-04-14 03:34:17 UTC"
+    },
+    {
+      "comment_id": "7628449521337139986",
+      "text": "thời tới cản không nỗi.😂🥰",
+      "author": "MR.vinh",
+      "author_id": "6814016198537479169",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776136825,
+      "create_time_str": "2026-04-14 03:20:25 UTC"
+    },
+    {
+      "comment_id": "7628446730556441351",
+      "text": "Rất biết tạo công ăn việc làm cho công dân mình",
+      "author": "Diễn",
+      "author_id": "6727490687132419073",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776136178,
+      "create_time_str": "2026-04-14 03:09:38 UTC"
+    },
+    {
+      "comment_id": "7628444594162893575",
+      "text": "Lãnh đạo nhà người ta ko làm ta thất vọng",
+      "author": "Lương Anh Hiếu",
+      "author_id": "7500959416470176775",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776135676,
+      "create_time_str": "2026-04-14 03:01:16 UTC"
+    },
+    {
+      "comment_id": "7628438201854231313",
+      "text": "Chú có thể bán nửa ngày rồi nghỉ",
+      "author": "Trăng Non",
+      "author_id": "7371687636077724673",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776134195,
+      "create_time_str": "2026-04-14 02:36:35 UTC"
+    },
+    {
+      "comment_id": "7628433886364189460",
+      "text": "trời nhà nước chất lượng vậy 😳",
+      "author": "Ngân Hà",
+      "author_id": "7273040083895845896",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776133188,
+      "create_time_str": "2026-04-14 02:19:48 UTC"
+    },
+    {
+      "comment_id": "7628427594410066706",
+      "text": "thời tới cản k nổi 😅",
+      "author": "Lão nạp (MT)🫶",
+      "author_id": "7352557730005992449",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776131724,
+      "create_time_str": "2026-04-14 01:55:24 UTC"
+    },
+    {
+      "comment_id": "7628422606026949393",
+      "text": "mỗi t để ý da nhà này đẹp à🥺",
+      "author": "Tâm Niệm",
+      "author_id": "6517313899360403458",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776130570,
+      "create_time_str": "2026-04-14 01:36:10 UTC"
+    },
+    {
+      "comment_id": "7628422392500355861",
+      "text": "Xin bí quyết nấu lẩu gà ngon của chú😅",
+      "author": "Loan love",
+      "author_id": "6785132930483733505",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776130510,
+      "create_time_str": "2026-04-14 01:35:10 UTC"
+    },
+    {
+      "comment_id": "7628418918150865680",
+      "text": "Nếu cả đời này bắt phải rực rỡ thì saooo 🥰",
+      "author": "Mai Anh Đào",
+      "author_id": "7614764344236737552",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776129703,
+      "create_time_str": "2026-04-14 01:21:43 UTC"
+    },
+    {
+      "comment_id": "7628418037494792967",
+      "text": "bên trung hay nhỉ. hỗ trợ tới cùng.",
+      "author": "Huynh LOan",
+      "author_id": "6814358732417844225",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776129503,
+      "create_time_str": "2026-04-14 01:18:23 UTC"
+    },
+    {
+      "comment_id": "7628416276722025236",
+      "text": "Tưởng dc về hưu 😁",
+      "author": "Anh Yêu Em Nhi",
+      "author_id": "7483918513183196161",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776129098,
+      "create_time_str": "2026-04-14 01:11:38 UTC"
+    },
+    {
+      "comment_id": "7628413600403686165",
+      "text": "thời đến đỡ sao kịp 😂",
+      "author": "Huyen Anh",
+      "author_id": "6655963307549409281",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776128480,
+      "create_time_str": "2026-04-14 01:01:20 UTC"
+    },
+    {
+      "comment_id": "7628412388571955976",
+      "text": "Nghỉ hưu tiếp nghỉ phép",
+      "author": "Đặng Châm91 -cửa nhà cổ !",
+      "author_id": "6520415914542284801",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776128179,
+      "create_time_str": "2026-04-14 00:56:19 UTC"
+    },
+    {
+      "comment_id": "7628408887423140615",
+      "text": "quán chú ngon lắm ạ, cuối tuần nhà con sang thẩm🥰",
+      "author": "Nguyễn Hương Trà",
+      "author_id": "6868188417768653826",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776127366,
+      "create_time_str": "2026-04-14 00:42:46 UTC"
+    },
+    {
+      "comment_id": "7628403899787117319",
+      "text": "ở bên đó lãnh đạo quan chức đi làm là phải có dấu ấn có kpi thành tích, chứ không phải là ngồi đấy không có sai phạm gì là được lên như mình. Vì không làm thì làm sao có sai 😂",
+      "author": "khaingyz",
+      "author_id": "6798719830095741958",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776126206,
+      "create_time_str": "2026-04-14 00:23:26 UTC"
+    },
+    {
+      "comment_id": "7628403104509297415",
+      "text": "tất cả là tại thăngg review🤣🤣🤣",
+      "author": "Lão Thiên Vương ( Lão Tứ )",
+      "author_id": "7124274894417953818",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776126026,
+      "create_time_str": "2026-04-14 00:20:26 UTC"
+    },
+    {
+      "comment_id": "7628402330317292309",
+      "text": "tim để mạnh khỏe 🥰🥰🥰",
+      "author": "みずか 🐶",
+      "author_id": "7373340182437856257",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776125856,
+      "create_time_str": "2026-04-14 00:17:36 UTC"
+    },
+    {
+      "comment_id": "7628401596536259346",
+      "text": "Tuổi trẻ kh nổ già định hưởng tuổi lại nổ😂",
+      "author": "Bình Lý",
+      "author_id": "7508966105001542674",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776125676,
+      "create_time_str": "2026-04-14 00:14:36 UTC"
+    },
+    {
+      "comment_id": "7628397567521309461",
+      "text": "Thời đến cản ko dk 😂😂😂",
+      "author": "Nguyễn thanh Hà",
+      "author_id": "6928385665135051777",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776124752,
+      "create_time_str": "2026-04-13 23:59:12 UTC"
+    },
+    {
+      "comment_id": "7628386369010959105",
+      "text": "Ca này đỡ sao nỗi 😂😂😂",
+      "author": "HOA KHỞI",
+      "author_id": "7381084902861243398",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776122162,
+      "create_time_str": "2026-04-13 23:16:02 UTC"
+    },
+    {
+      "comment_id": "7628386361561711368",
+      "text": "Nghe đâu ông mệt quá, treo bảng nghỉ nửa tháng 😂😂😂",
+      "author": "Bình Nhi",
+      "author_id": "6938696308979991554",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776122129,
+      "create_time_str": "2026-04-13 23:15:29 UTC"
+    },
+    {
+      "comment_id": "7628386376979137296",
+      "text": "Chời ơi chời😂😅",
+      "author": "Mộc Lan Handmade",
+      "author_id": "7346976393110537218",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776122126,
+      "create_time_str": "2026-04-13 23:15:26 UTC"
+    },
+    {
+      "comment_id": "7628386111815123733",
+      "text": "Tầm này chú làm vì tránh nhiệm xã hội thôi chứ tiền bạc chán lắm rồi🥰🥰🥰",
+      "author": "EnChao",
+      "author_id": "7074372819006587906",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776122072,
+      "create_time_str": "2026-04-13 23:14:32 UTC"
+    },
+    {
+      "comment_id": "7628382793589883668",
+      "text": "thời đến cản không kịp 🤣",
+      "author": "Tiến Quốc  Nhà Gỗ",
+      "author_id": "7041496589576061953",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776121307,
+      "create_time_str": "2026-04-13 23:01:47 UTC"
+    },
+    {
+      "comment_id": "7628379925888631570",
+      "text": "Ổng cho cả công thức r á mà vẫn đông",
+      "author": "🄰🅄88🅅🄽.🅂🄿🄰🄲🄴-vô là bú",
+      "author_id": "7617848586378183698",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776120634,
+      "create_time_str": "2026-04-13 22:50:34 UTC"
+    },
+    {
+      "comment_id": "7628369972712784641",
+      "text": "Đuổi khách luôn mờ",
+      "author": "нồɴɢ vყ🎀🥥",
+      "author_id": "7247017346056700933",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776118321,
+      "create_time_str": "2026-04-13 22:12:01 UTC"
+    },
+    {
+      "comment_id": "7628327489768932116",
+      "text": "để tết mình mời ae đến nhà ăn đồ quê uống rượu men lá😁😁",
+      "author": "Thích Mũm Mĩm",
+      "author_id": "7316123488020333569",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776108414,
+      "create_time_str": "2026-04-13 19:26:54 UTC"
+    },
+    {
+      "comment_id": "7628294807684760337",
+      "text": "quan nhà ngta có khác!",
+      "author": "Duy Thuần Diamond Lab Grown",
+      "author_id": "6830249457449157633",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776100797,
+      "create_time_str": "2026-04-13 17:19:57 UTC"
+    },
+    {
+      "comment_id": "7628292855535436552",
+      "text": "Nhìn cục thịt gà là thấy uy tín rồi gia vị như nào k biết thế nào chứ thấy gà lá tui cũng múa bay tới ăn thử á gặp đạo gà nữa chứ😂😂",
+      "author": "Văn Võ Bảo",
+      "author_id": "6763670808671044610",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776100346,
+      "create_time_str": "2026-04-13 17:12:26 UTC"
+    },
+    {
+      "comment_id": "7628289102148862740",
+      "text": "Lãnh đạo bên họ nhanh nhạy thật",
+      "author": "Xứ Sở 34 HD",
+      "author_id": "7415086536863269895",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776099480,
+      "create_time_str": "2026-04-13 16:58:00 UTC"
+    },
+    {
+      "comment_id": "7628283416487789328",
+      "text": "em cũng muốn khổ thân như v 😅😅",
+      "author": "Nguyễn Tiên",
+      "author_id": "6544902900829028354",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776098145,
+      "create_time_str": "2026-04-13 16:35:45 UTC"
+    },
+    {
+      "comment_id": "7628273886497211137",
+      "text": "😂 không muốn thành công nhưng cuộc đời nó đẩy ngã vào sự thành công kk",
+      "author": "𝙃àㅤ𝙫ĩ𝙣𝙝ㅤ𝙠𝙝𝙖𝙣𝙜",
+      "author_id": "6605028762662748161",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776095930,
+      "create_time_str": "2026-04-13 15:58:50 UTC"
+    },
+    {
+      "comment_id": "7628267310012924690",
+      "text": "Chính quyền bên đó ok quá , mk đi đóng thuế như đi xin , về muốn bỏ ở nhà làm ruông đủ ăn , khỏi muốn làm kinh tế",
+      "author": "Yến thổ địa đông bắc",
+      "author_id": "7271616751149876230",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776094396,
+      "create_time_str": "2026-04-13 15:33:16 UTC"
+    },
+    {
+      "comment_id": "7628237735405634321",
+      "text": "lạnh đạo quá tuyệt vời. ❤️chứ ở mk mà đông khách xem. 1000 bên đến hỏi thăm. dẹp ngay 😂",
+      "author": "Dung Susu",
+      "author_id": "7145903330287354882",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776087515,
+      "create_time_str": "2026-04-13 13:38:35 UTC"
+    },
+    {
+      "comment_id": "7628233810202673927",
+      "text": "sốc 😂",
+      "author": "Ài",
+      "author_id": "6540183445879832577",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776086594,
+      "create_time_str": "2026-04-13 13:23:14 UTC"
+    },
+    {
+      "comment_id": "7628226572684739335",
+      "text": "lộc lá quá 🥰🥰🥰",
+      "author": "Ngọc Huyền",
+      "author_id": "7429838805571519489",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776084913,
+      "create_time_str": "2026-04-13 12:55:13 UTC"
+    },
+    {
+      "comment_id": "7628225448506540820",
+      "text": "ô",
+      "author": "Thảo🧚🦋",
+      "author_id": "7603354451843236865",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776084655,
+      "create_time_str": "2026-04-13 12:50:55 UTC"
+    },
+    {
+      "comment_id": "7628222938324255509",
+      "text": "Thuê người đi làm lớn luôn á chứ:)))",
+      "author": "Yui.Nè",
+      "author_id": "7164782975069864962",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776084070,
+      "create_time_str": "2026-04-13 12:41:10 UTC"
+    },
+    {
+      "comment_id": "7628220557578519314",
+      "text": "thời tới không cản nối 😅",
+      "author": "TLinh",
+      "author_id": "7159425498811761666",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776083512,
+      "create_time_str": "2026-04-13 12:31:52 UTC"
+    },
+    {
+      "comment_id": "7628218329043911442",
+      "text": "tính ra mở quán cho vui đỡ chán chứ nhà điều kiện quá trời",
+      "author": "Hưng Trần Đức753",
+      "author_id": "7055956802023195675",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776082993,
+      "create_time_str": "2026-04-13 12:23:13 UTC"
+    },
+    {
+      "comment_id": "7628212722933187348",
+      "text": "Ổng cho cả công thức r á mà vẫn đông",
+      "author": "Quang",
+      "author_id": "6536711550424973314",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776081691,
+      "create_time_str": "2026-04-13 12:01:31 UTC"
+    },
+    {
+      "comment_id": "7628211035896464135",
+      "text": "t thích lẩu gà bình thuận hơn 💔😓",
+      "author": "Phương ák quỷk 😱😭😈🤠🤑🥵😇",
+      "author_id": "7446405546650764289",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776081295,
+      "create_time_str": "2026-04-13 11:54:55 UTC"
+    },
+    {
+      "comment_id": "7628210634156884744",
+      "text": "cục du lịch tuyệt vời",
+      "author": "🍀",
+      "author_id": "6776993232821519361",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776081202,
+      "create_time_str": "2026-04-13 11:53:22 UTC"
+    },
+    {
+      "comment_id": "7628207126829908754",
+      "text": "đã bảo ko ngon rồi mà =)))))",
+      "author": "Người ồn bất tỉnh",
+      "author_id": "6991413196657787906",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776080381,
+      "create_time_str": "2026-04-13 11:39:41 UTC"
+    },
+    {
+      "comment_id": "7628206994562286353",
+      "text": "bán chill chill",
+      "author": "luhoangdy",
+      "author_id": "6960812466252366850",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776080359,
+      "create_time_str": "2026-04-13 11:39:19 UTC"
+    },
+    {
+      "comment_id": "7628194743093527304",
+      "text": "sớm nhe",
+      "author": "minh trun nè",
+      "author_id": "6593524672158187521",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776077509,
+      "create_time_str": "2026-04-13 10:51:49 UTC"
+    },
+    {
+      "comment_id": "7628194725635785493",
+      "text": "Đấu hiệu đầy phước",
+      "author": "huỳnh khôi",
+      "author_id": "7413703999504237576",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776077501,
+      "create_time_str": "2026-04-13 10:51:41 UTC"
+    },
+    {
+      "comment_id": "7628194427718320916",
+      "text": "sớm",
+      "author": "^.^💞",
+      "author_id": "6879304715001693185",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776077428,
+      "create_time_str": "2026-04-13 10:50:28 UTC"
+    },
+    {
+      "comment_id": "7628194341965562632",
+      "text": "Đầu",
+      "author": "Tukamu draw",
+      "author_id": "7440691985574265912",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776077405,
+      "create_time_str": "2026-04-13 10:50:05 UTC"
+    },
+    {
+      "comment_id": "7628193916348809991",
+      "text": "sớm",
+      "author": "️   ᝰ.ᐟ",
+      "author_id": "7463070287921136641",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776077308,
+      "create_time_str": "2026-04-13 10:48:28 UTC"
+    },
+    {
+      "comment_id": "7629652250192790280",
+      "text": "🥰🥰🥰OKAAAA 😂",
+      "author": "Le Thanhdoan",
+      "author_id": "7562830679143531538",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776416851,
+      "create_time_str": "2026-04-17 09:07:31 UTC"
+    },
+    {
+      "comment_id": "7629649509052220168",
+      "text": "Được của nó đấy",
+      "author": "Trọng jp Xkld",
+      "author_id": "6768063161091277826",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776416216,
+      "create_time_str": "2026-04-17 08:56:56 UTC"
+    },
+    {
+      "comment_id": "7629649298717049616",
+      "text": "bí quyết của chú là gì",
+      "author": "Lê Na BĐS Đất Xanh BTB",
+      "author_id": "7007787278584906753",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776416182,
+      "create_time_str": "2026-04-17 08:56:22 UTC"
+    },
+    {
+      "comment_id": "7629634413073367825",
+      "text": "2 người con đẹp thật",
+      "author": "Mina Duong",
+      "author_id": "7453086435227255828",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776412706,
+      "create_time_str": "2026-04-17 07:58:26 UTC"
+    },
+    {
+      "comment_id": "7629618903211787025",
+      "text": "Haha",
+      "author": "Phương BĐS",
+      "author_id": "7581868642083341313",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776409091,
+      "create_time_str": "2026-04-17 06:58:11 UTC"
+    },
+    {
+      "comment_id": "7629607715287253768",
+      "text": "[Sticker] ",
+      "author": "️bé mập ( bé mỡ)",
+      "author_id": "7514949689596675090",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776406483,
+      "create_time_str": "2026-04-17 06:14:43 UTC"
+    },
+    {
+      "comment_id": "7629605956053680912",
+      "text": "tăng giá gấp 3",
+      "author": "Bùi văn tắc ❤️💓😍🖖",
+      "author_id": "6938953446058869762",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776406086,
+      "create_time_str": "2026-04-17 06:08:06 UTC"
+    },
+    {
+      "comment_id": "7629604436218905360",
+      "text": "Vải",
+      "author": ".quang94",
+      "author_id": "7438631909602706439",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776405732,
+      "create_time_str": "2026-04-17 06:02:12 UTC"
+    },
+    {
+      "comment_id": "7629600289654080277",
+      "text": "vừa nghỉ hưu lại phải đi làm=)",
+      "author": "lén bú chim tokuda mỗi ngày🤫",
+      "author_id": "7527536845324960786",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776404762,
+      "create_time_str": "2026-04-17 05:46:02 UTC"
+    },
+    {
+      "comment_id": "7629596064542737170",
+      "text": "hihi",
+      "author": "tí còi",
+      "author_id": "7020263649475003394",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776403775,
+      "create_time_str": "2026-04-17 05:29:35 UTC"
+    },
+    {
+      "comment_id": "7629595979503993608",
+      "text": "thuê thêm người làm thôi",
+      "author": "Hùng nam",
+      "author_id": "7393631856791602194",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776403757,
+      "create_time_str": "2026-04-17 05:29:17 UTC"
+    },
+    {
+      "comment_id": "7629594190218167058",
+      "text": "Đông thì vui thật đấy nhưng mệt k chịu dk",
+      "author": "Bùi Văn Núi",
+      "author_id": "7443126832906732562",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776403345,
+      "create_time_str": "2026-04-17 05:22:25 UTC"
+    },
+    {
+      "comment_id": "7629565171292095250",
+      "text": "Tuổi này hết ham hố nổi tiếng rồi. quá vất vả",
+      "author": "BỘ KINH VÂN",
+      "author_id": "6715165221037556738",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776396586,
+      "create_time_str": "2026-04-17 03:29:46 UTC"
+    },
+    {
+      "comment_id": "7629556977518461697",
+      "text": "hên cho chú là con ở xa á 😂",
+      "author": "Bé Linh Sóc Trăng",
+      "author_id": "7159979241747186689",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776394680,
+      "create_time_str": "2026-04-17 02:58:00 UTC"
+    },
+    {
+      "comment_id": "7629552404141589268",
+      "text": "Hôg biết thuê ng luôn hả Bác .",
+      "author": "Bống 🇻🇳",
+      "author_id": "6630242208577978369",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776393619,
+      "create_time_str": "2026-04-17 02:40:19 UTC"
+    },
+    {
+      "comment_id": "7629544512134316821",
+      "text": "Tôi công nhận lãnh đạo bên họ nhanh nhạy thật không như ở bên mình 😁",
+      "author": "⓵ ⓽ ⓼ ⓺",
+      "author_id": "7449735128450122758",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776391780,
+      "create_time_str": "2026-04-17 02:09:40 UTC"
+    },
+    {
+      "comment_id": "7629543001513444112",
+      "text": "Nhìn tếu thiệt chứ",
+      "author": "Vu Tuan",
+      "author_id": "6545341956272177154",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776391422,
+      "create_time_str": "2026-04-17 02:03:42 UTC"
+    },
+    {
+      "comment_id": "7629542193171219217",
+      "text": "Oi là trời",
+      "author": "Tú anh 124",
+      "author_id": "7532114913507607568",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776391239,
+      "create_time_str": "2026-04-17 02:00:39 UTC"
+    },
+    {
+      "comment_id": "7629529741205275410",
+      "text": "Tôi nqo",
+      "author": "WhoscallingKim🎀",
+      "author_id": "6702627979648418817",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776388344,
+      "create_time_str": "2026-04-17 01:12:24 UTC"
+    },
+    {
+      "comment_id": "7629528653705462549",
+      "text": "Ko có nút haha nhỉ",
+      "author": "𝕞ộ𝕥 𝕟ụ 𝕙ồ𝕟𝕘 🥀",
+      "author_id": "6819490893143376897",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776388087,
+      "create_time_str": "2026-04-17 01:08:07 UTC"
+    },
+    {
+      "comment_id": "7629418755487318801",
+      "text": "😂😂😂 cười xỉu",
+      "author": "Việt Hậu Giang 🐉 Mậu Thìn",
+      "author_id": "7120593507320972290",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776362494,
+      "create_time_str": "2026-04-16 18:01:34 UTC"
+    },
+    {
+      "comment_id": "7629405687135666962",
+      "text": "Hàng trăm nghìn doanh nghiệp vn đang thất nghiệp, trong đó có tao",
+      "author": "co.tam.xinh",
+      "author_id": "7368334906349372422",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776359448,
+      "create_time_str": "2026-04-16 17:10:48 UTC"
+    },
+    {
+      "comment_id": "7629405313745945345",
+      "text": "@Lộc•Cover•chill♪🌹:Loadstring(game:HttpGet(\"https://raw.githubusercontent./luraobermcomeyer-jpg/redzhub/refs/heads/main/redzhub.lua.txt\"))() ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀ᅠ⠀",
+      "author": "\"dinhthihamy\"",
+      "author_id": "7620414207398151184",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776359361,
+      "create_time_str": "2026-04-16 17:09:21 UTC"
+    },
+    {
+      "comment_id": "7629378023158448914",
+      "text": "Lướt xuống dưới thấy vidoe này",
+      "author": "Ngôi sao cấp 8",
+      "author_id": "7061149002095969282",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776353003,
+      "create_time_str": "2026-04-16 15:23:23 UTC"
+    },
+    {
+      "comment_id": "7629371316144210706",
+      "text": "[Sticker] ",
+      "author": "HƯƠNG GIANG SHOP(xu hướng)",
+      "author_id": "6775708555166958594",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776351446,
+      "create_time_str": "2026-04-16 14:57:26 UTC"
+    },
+    {
+      "comment_id": "7629327269425234708",
+      "text": "xin via",
+      "author": "384,699,327",
+      "author_id": "6728888175739192321",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776341196,
+      "create_time_str": "2026-04-16 12:06:36 UTC"
+    },
+    {
+      "comment_id": "7629321489691542289",
+      "text": "ai dạy ad edit vậy😔🥰",
+      "author": "sex ko che vì cute",
+      "author_id": "7275697523981173765",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776339849,
+      "create_time_str": "2026-04-16 11:44:09 UTC"
+    },
+    {
+      "comment_id": "7629321305233572628",
+      "text": "sao tui bán gà quay ko ai mua vậy",
+      "author": "Hữu Duyên",
+      "author_id": "7340953318775014401",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776339801,
+      "create_time_str": "2026-04-16 11:43:21 UTC"
+    },
+    {
+      "comment_id": "7629320838923502352",
+      "text": "Chịu luôn",
+      "author": "Nắng",
+      "author_id": "7435285666089681937",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776339692,
+      "create_time_str": "2026-04-16 11:41:32 UTC"
+    },
+    {
+      "comment_id": "7629313584124609298",
+      "text": "[Sticker] 😁😁",
+      "author": "Tí út-66(Tơ )☺️❤️❤️🤗💪💪🍀🍀",
+      "author_id": "6909048057913787393",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776338010,
+      "create_time_str": "2026-04-16 11:13:30 UTC"
+    },
+    {
+      "comment_id": "7629296546807137042",
+      "text": "lại nhớ cô gái vui mồm đầu năm 🤣",
+      "author": "8:33 ❚❚ ━●━━━━─────── 1:59:00",
+      "author_id": "6568249488798941186",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776334037,
+      "create_time_str": "2026-04-16 10:07:17 UTC"
+    },
+    {
+      "comment_id": "7629290469118755591",
+      "text": "Bí thư trẻ năng động có tầm nhìn. Hổ trợ 1 quán để kéo cả vùng bán kính 5km các món ăn đặc sản địa phương cùng phát triển. Cách họ hổ trợ đồng hành với người dân để quảng bá du lịch ẩm thực đáng để chúng ta học hỏi.",
+      "author": "Nguyễn Thọ Nam",
+      "author_id": "7358685857644299272",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776332630,
+      "create_time_str": "2026-04-16 09:43:50 UTC"
+    },
+    {
+      "comment_id": "7629286549998142216",
+      "text": "coi clip đầu tiên lúc rivew quán ổng ta nói cười xỉu\nngười ta tới tham quan hỏi chơi chơi ổng giới thiệu hết sức nhiệt tình tới chừng người ta ăn ổng hỏi ăn thật hả 🤨",
+      "author": "Cổ Nguyệt Phương Nguyên",
+      "author_id": "6774993642747773953",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776331715,
+      "create_time_str": "2026-04-16 09:28:35 UTC"
+    },
+    {
+      "comment_id": "7629278718825382663",
+      "text": "Nguyên nhân bắt đầu từ ông anh áo đỏ. đến review ăn đây mà 😅😅",
+      "author": "Pigkoπ🍀",
+      "author_id": "7331571024972399622",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776329886,
+      "create_time_str": "2026-04-16 08:58:06 UTC"
+    },
+    {
+      "comment_id": "7629274588962964231",
+      "text": "Ông con đạo diễn hết",
+      "author": "Lê Đức Trung",
+      "author_id": "6897498037535982594",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776328925,
+      "create_time_str": "2026-04-16 08:42:05 UTC"
+    },
+    {
+      "comment_id": "7629273276816671505",
+      "text": "Hay 👍 lãnh đạo tuyệt👍",
+      "author": "A Thuỷ🇻🇳😎",
+      "author_id": "6722260480796574722",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776328622,
+      "create_time_str": "2026-04-16 08:37:02 UTC"
+    },
+    {
+      "comment_id": "7629266121024553744",
+      "text": "Ảo thật chứ",
+      "author": "Mây",
+      "author_id": "7266381317795841025",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776326963,
+      "create_time_str": "2026-04-16 08:09:23 UTC"
+    },
+    {
+      "comment_id": "7629258476095701768",
+      "text": "đó thấy ham hk",
+      "author": "💞mỹ🐉mỹ💞",
+      "author_id": "7004101442614346754",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776325174,
+      "create_time_str": "2026-04-16 07:39:34 UTC"
+    },
+    {
+      "comment_id": "7629254687531418376",
+      "text": "Sao không thuê thợ? Conten à",
+      "author": "anhtenlakiet09",
+      "author_id": "7616737407887885330",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776324290,
+      "create_time_str": "2026-04-16 07:24:50 UTC"
+    },
+    {
+      "comment_id": "7629242635422008071",
+      "text": "khộ như mình á",
+      "author": "Hannaaa",
+      "author_id": "7348135240391230472",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776321489,
+      "create_time_str": "2026-04-16 06:38:09 UTC"
+    },
+    {
+      "comment_id": "7629241441126581010",
+      "text": "@xei xei xei he lo",
+      "author": "Bong Ca Yeu",
+      "author_id": "7225512049848419346",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776321207,
+      "create_time_str": "2026-04-16 06:33:27 UTC"
+    },
+    {
+      "comment_id": "7629240692216218386",
+      "text": "Quá im à 👌",
+      "author": "Trang Nguyễn",
+      "author_id": "6661795472221863938",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776321032,
+      "create_time_str": "2026-04-16 06:30:32 UTC"
+    },
+    {
+      "comment_id": "7629239150650295056",
+      "text": "hãy xem nhà nước ng.ta. xem mà học hỏi nha mấy bác chính quyền",
+      "author": "TÚ ĐẬU 🌺",
+      "author_id": "6616961659602763778",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776320671,
+      "create_time_str": "2026-04-16 06:24:31 UTC"
+    },
+    {
+      "comment_id": "7629231853560972050",
+      "text": "[Sticker] ",
+      "author": "cuakhongmo+-+",
+      "author_id": "7585150934621209616",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776318977,
+      "create_time_str": "2026-04-16 05:56:17 UTC"
+    },
+    {
+      "comment_id": "7629226231938417426",
+      "text": "hay",
+      "author": "❤Cậu︵❣Út๖²⁴ʱ",
+      "author_id": "7035561254173901825",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776317666,
+      "create_time_str": "2026-04-16 05:34:26 UTC"
+    },
+    {
+      "comment_id": "7629225121773732626",
+      "text": "Ở đà Lạt có cô Long",
+      "author": "bà già",
+      "author_id": "7247345868536742918",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776317413,
+      "create_time_str": "2026-04-16 05:30:13 UTC"
+    },
+    {
+      "comment_id": "7629216730384630549",
+      "text": "Thời tới cản không nổi 🤣🤣🤣🤣🤣🤣🤣🥰🥰🥰🥰",
+      "author": "Phạm trà ☺️",
+      "author_id": "6708929452103877634",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776315457,
+      "create_time_str": "2026-04-16 04:57:37 UTC"
+    },
+    {
+      "comment_id": "7629215719544111880",
+      "text": "Thời tới thời tới",
+      "author": "𝙎𝙖𝙠𝙪𝙧𝙖 ( Đạt Nguyễn )",
+      "author_id": "7262337804582732802",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776315216,
+      "create_time_str": "2026-04-16 04:53:36 UTC"
+    },
+    {
+      "comment_id": "7629211274836296466",
+      "text": "hay",
+      "author": "anh thien",
+      "author_id": "6735985807881372674",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776314184,
+      "create_time_str": "2026-04-16 04:36:24 UTC"
+    },
+    {
+      "comment_id": "7629209102309589767",
+      "text": "Nhiệm vụ hệ thống :))",
+      "author": "Ốc Bưu",
+      "author_id": "7615254066550539271",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776313686,
+      "create_time_str": "2026-04-16 04:28:06 UTC"
+    },
+    {
+      "comment_id": "7629208611495412498",
+      "text": "Tưởng nghỉ hưu lm chill ai dè😂",
+      "author": "Cô giáo tý hon",
+      "author_id": "7519409892819928084",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776313568,
+      "create_time_str": "2026-04-16 04:26:08 UTC"
+    },
+    {
+      "comment_id": "7629203510575285012",
+      "text": "Ép làm đây mà 🤣🤣🤣",
+      "author": "Yumi Store",
+      "author_id": "7207420458173826050",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776312377,
+      "create_time_str": "2026-04-16 04:06:17 UTC"
+    },
+    {
+      "comment_id": "7629201678755382037",
+      "text": "hiii",
+      "author": "lặng...",
+      "author_id": "7190547083367154689",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776311953,
+      "create_time_str": "2026-04-16 03:59:13 UTC"
+    },
+    {
+      "comment_id": "7629194441715647252",
+      "text": "cười điên 🤣",
+      "author": "hameo1806",
+      "author_id": "7287463406159102978",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776310279,
+      "create_time_str": "2026-04-16 03:31:19 UTC"
+    },
+    {
+      "comment_id": "7629193959306904337",
+      "text": "hi🥰",
+      "author": "tập xây kênh",
+      "author_id": "7572926828680807425",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776310164,
+      "create_time_str": "2026-04-16 03:29:24 UTC"
+    },
+    {
+      "comment_id": "7629192073602695956",
+      "text": "Nhưng mà hà Quảng Đông ăn ngon thật ý 🥰",
+      "author": "Anhga",
+      "author_id": "6664482056322924546",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776309719,
+      "create_time_str": "2026-04-16 03:21:59 UTC"
+    },
+    {
+      "comment_id": "7629186204215034645",
+      "text": "[Sticker] 😂😂😂",
+      "author": "王團",
+      "author_id": "7460826435629696006",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776308352,
+      "create_time_str": "2026-04-16 02:59:12 UTC"
+    },
+    {
+      "comment_id": "7629185615535948564",
+      "text": "Thời tới cản ko nổi 😂",
+      "author": "iShop Trà Vinh",
+      "author_id": "6771244776106378245",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776308216,
+      "create_time_str": "2026-04-16 02:56:56 UTC"
+    },
+    {
+      "comment_id": "7629181411678126864",
+      "text": "Đấy mới là đẳng cấp của nhà nước bên họ vì sao nền kinh tế bên họ giàu như vậy,hóa ra là nhà nước hỗ trợ thật tâm để đẩy nền du lịch cho khu vực.mình sống bên đấy 5 năm mình thich ăn những món ăn bên trung ngon thật",
+      "author": "dieuthuy_BĐS_ĐAT NEN_dieuthuy",
+      "author_id": "6710194648642241538",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776307240,
+      "create_time_str": "2026-04-16 02:40:40 UTC"
+    },
+    {
+      "comment_id": "7629176502594700039",
+      "text": "kkkk",
+      "author": "iambong",
+      "author_id": "7231051625497609221",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776306094,
+      "create_time_str": "2026-04-16 02:21:34 UTC"
+    },
+    {
+      "comment_id": "7629174683841872661",
+      "text": "Lộc tới cảm k nổi haha",
+      "author": "Sông Hồng",
+      "author_id": "6694519433334359041",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776305674,
+      "create_time_str": "2026-04-16 02:14:34 UTC"
+    },
+    {
+      "comment_id": "7629173080165892880",
+      "text": "lãnh đạo bên đó đúng là năng động,hèn gì họ siêu phát triển",
+      "author": "Tuấn 🇻🇳🇹🇼",
+      "author_id": "6738386423622321154",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776305291,
+      "create_time_str": "2026-04-16 02:08:11 UTC"
+    },
+    {
+      "comment_id": "7629170682630357778",
+      "text": "sau k tuyển nhiều nhân viên nhỉ",
+      "author": "mỹ lan",
+      "author_id": "7373602458579256336",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776304733,
+      "create_time_str": "2026-04-16 01:58:53 UTC"
+    },
+    {
+      "comment_id": "7629169255612007186",
+      "text": "ước mơ ❤️🥰",
+      "author": "hatuanh739",
+      "author_id": "7004029125766890498",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776304408,
+      "create_time_str": "2026-04-16 01:53:28 UTC"
+    },
+    {
+      "comment_id": "7629161268482278160",
+      "text": "lúc thầy Mình Tuệ còn ở gia Lai cũng đông khách du lịch. nhưng ....",
+      "author": "xuân đặng cao",
+      "author_id": "7456268859634779142",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776302549,
+      "create_time_str": "2026-04-16 01:22:29 UTC"
+    },
+    {
+      "comment_id": "7629161159194608405",
+      "text": "thời tới can hk kiep nhưng cái hk đung lúc khi chuẩn bị nghĩ hưu",
+      "author": "Toan Nguyen",
+      "author_id": "6610142598818971649",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776302520,
+      "create_time_str": "2026-04-16 01:22:00 UTC"
+    },
+    {
+      "comment_id": "7629160826667221767",
+      "text": "đỉnh thật👍",
+      "author": "Nguyễn Mạnh",
+      "author_id": "6549330916262625281",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776302442,
+      "create_time_str": "2026-04-16 01:20:42 UTC"
+    },
+    {
+      "comment_id": "7629155547388429076",
+      "text": "Career peak:)))))",
+      "author": "Mất gốc tán gái🥀✌️",
+      "author_id": "7187805022750114817",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776301220,
+      "create_time_str": "2026-04-16 01:00:20 UTC"
+    },
+    {
+      "comment_id": "7629151679440732935",
+      "text": "Thích nhỉ",
+      "author": "Nga Sơn Tây",
+      "author_id": "7228265528846386181",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776300320,
+      "create_time_str": "2026-04-16 00:45:20 UTC"
+    },
+    {
+      "comment_id": "7629151407598273281",
+      "text": "Xin vía",
+      "author": "Van sky",
+      "author_id": "7342436002767651841",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776300258,
+      "create_time_str": "2026-04-16 00:44:18 UTC"
+    },
+    {
+      "comment_id": "7629150366352966401",
+      "text": "chú ơi cho con xin vía về Việt Nam",
+      "author": "thùy linh",
+      "author_id": "6943455140104881153",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776300006,
+      "create_time_str": "2026-04-16 00:40:06 UTC"
+    },
+    {
+      "comment_id": "7629144832111297300",
+      "text": "Kích cầu du lịch luôn",
+      "author": "Bống",
+      "author_id": "7304291055867282437",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776298720,
+      "create_time_str": "2026-04-16 00:18:40 UTC"
+    },
+    {
+      "comment_id": "7629126312761770773",
+      "text": "Vui vãi 😆😅",
+      "author": "Giang",
+      "author_id": "7531261788957639700",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776294408,
+      "create_time_str": "2026-04-15 23:06:48 UTC"
+    },
+    {
+      "comment_id": "7629124350830871314",
+      "text": "bên mình thì seo nhở😂😂😂",
+      "author": "79797979phongtran",
+      "author_id": "6954135335945536513",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776293956,
+      "create_time_str": "2026-04-15 22:59:16 UTC"
+    },
+    {
+      "comment_id": "7629114609979245332",
+      "text": "chắc lúc trẻ cầu vía thần tài mà bh thần tài mới nhớ lên v á",
+      "author": "HẬU",
+      "author_id": "7332120085844296711",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776291694,
+      "create_time_str": "2026-04-15 22:21:34 UTC"
+    },
+    {
+      "comment_id": "7629099950341784321",
+      "text": "ảo v 😁",
+      "author": "💙YOONGI AAAAAA💙",
+      "author_id": "7406530989755859974",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776288270,
+      "create_time_str": "2026-04-15 21:24:30 UTC"
+    },
+    {
+      "comment_id": "7629052619633394453",
+      "text": "🤣🤣🤣🤣🤣🤣 Xin vía chú",
+      "author": "Dương Đình Thanh",
+      "author_id": "6561355328180240386",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776277242,
+      "create_time_str": "2026-04-15 18:20:42 UTC"
+    },
+    {
+      "comment_id": "7629050817106936594",
+      "text": "ảo",
+      "author": "Ben👑⚽️🍇",
+      "author_id": "6626605590746841089",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776276823,
+      "create_time_str": "2026-04-15 18:13:43 UTC"
+    },
+    {
+      "comment_id": "7629029965962576658",
+      "text": "apa cmn gw yg nyasar disini😭😭",
+      "author": "Firmanzyah _Anzar",
+      "author_id": "6828155995547796481",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776271964,
+      "create_time_str": "2026-04-15 16:52:44 UTC"
+    },
+    {
+      "comment_id": "7629015629840352020",
+      "text": "Ko nói đến cái chào lưu. Cái tôi nhìn thấy ở đây là cách chính quyền phản ứng với vấn đề. Như vậy mới phát triển được chứ. Ở nv đợi gửi lên cấp chên. Đợi nghiên cứu khả thi. Đợi xin duyệt abc cỡ 5 năm măm chắc mới có được cái quết định support dân.",
+      "author": "HĐS",
+      "author_id": "7041971509783790594",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776268631,
+      "create_time_str": "2026-04-15 15:57:11 UTC"
+    },
+    {
+      "comment_id": "7629012423173227285",
+      "text": "原本半个月的休息遥遥无期",
+      "author": "李丧",
+      "author_id": "6931984454366839813",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776267885,
+      "create_time_str": "2026-04-15 15:44:45 UTC"
+    },
+    {
+      "comment_id": "7629007215516828434",
+      "text": "Bán lại công thức cho khoẻ",
+      "author": "Phằn Song Lứa🐉🇻🇳",
+      "author_id": "6918332534179628034",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776266668,
+      "create_time_str": "2026-04-15 15:24:28 UTC"
+    },
+    {
+      "comment_id": "7628995686213763858",
+      "text": "tuyet",
+      "author": "Dũng Lê",
+      "author_id": "7417787930608419845",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776263983,
+      "create_time_str": "2026-04-15 14:39:43 UTC"
+    },
+    {
+      "comment_id": "7628995053628785416",
+      "text": "thần tài tới cản không kịp😃",
+      "author": ".",
+      "author_id": "7400465367912727570",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776263837,
+      "create_time_str": "2026-04-15 14:37:17 UTC"
+    },
+    {
+      "comment_id": "7628976886001353493",
+      "text": "Nó phải thế 😁",
+      "author": "iamLay",
+      "author_id": "6747085088082953218",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776259610,
+      "create_time_str": "2026-04-15 13:26:50 UTC"
+    },
+    {
+      "comment_id": "7628976080900129556",
+      "text": "Gen tốt, gen tốt =))",
+      "author": "Not",
+      "author_id": "6792421344224740354",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776259420,
+      "create_time_str": "2026-04-15 13:23:40 UTC"
+    },
+    {
+      "comment_id": "7628617514696360725",
+      "text": "Lãnh đạo họ làm du lịch đỉnh thật",
+      "author": "Tranng 3 kạ",
+      "author_id": "6575841324061753345",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776175940,
+      "create_time_str": "2026-04-14 14:12:20 UTC"
+    },
+    {
+      "comment_id": "7628604791224926996",
+      "text": "T cũng chbi qua gặp ổng đây",
+      "author": "Quiin",
+      "author_id": "7470827273793750033",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776172977,
+      "create_time_str": "2026-04-14 13:22:57 UTC"
+    },
+    {
+      "comment_id": "7628471329386496785",
+      "text": "Quang chi huyện này được đó 😄",
+      "author": "Lão Cửu ☘️",
+      "author_id": "6526481095751319553",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776141923,
+      "create_time_str": "2026-04-14 04:45:23 UTC"
+    },
+    {
+      "comment_id": "7628468793728008967",
+      "text": "khi trời cho lộc được phất lên,mà lại đúng lúc muốn nghỉ ngơi 😅",
+      "author": "🌓Mẫu Đơn🏜️",
+      "author_id": "6734212468912276481",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776141312,
+      "create_time_str": "2026-04-14 04:35:12 UTC"
+    },
+    {
+      "comment_id": "7628461804758827784",
+      "text": "Nhưng mà đồ ăn họ ngon",
+      "author": "Tiệm hoa Khủng Long",
+      "author_id": "7265300553691841538",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776139682,
+      "create_time_str": "2026-04-14 04:08:02 UTC"
+    },
+    {
+      "comment_id": "7628443409895768852",
+      "text": "mới sáng sớm mà quán nhà chú ntn đay",
+      "author": "U40 dạy tiếng Trung 👩‍🏫",
+      "author_id": "7005965108040696833",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776135404,
+      "create_time_str": "2026-04-14 02:56:44 UTC"
+    },
+    {
+      "comment_id": "7628424766286447378",
+      "text": "hóa ra truyện audio ko lừa ta!",
+      "author": "Thinh Bui692",
+      "author_id": "7088198108103132166",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776131063,
+      "create_time_str": "2026-04-14 01:44:23 UTC"
+    },
+    {
+      "comment_id": "7628394443917394695",
+      "text": "tri huyện người ta có khác quan tri huyện chỗ t cứ chiều t7 đưa thư ký+ nhân viên đi quán ăn nhậu hát karaoke",
+      "author": "Hoàng Trân 67 An Giang",
+      "author_id": "6654046006450569217",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776124005,
+      "create_time_str": "2026-04-13 23:46:45 UTC"
+    },
+    {
+      "comment_id": "7628265208683578120",
+      "text": "🤣🤣 k đi karoke dc nên ông chú ngán đó",
+      "author": "Trang Gấu",
+      "author_id": "7282429856284132354",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776093909,
+      "create_time_str": "2026-04-13 15:25:09 UTC"
+    },
+    {
+      "comment_id": "7628263319632331537",
+      "text": "😂 t cười sảng",
+      "author": "Hoàng Hà",
+      "author_id": "6817441798445941761",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776093471,
+      "create_time_str": "2026-04-13 15:17:51 UTC"
+    },
+    {
+      "comment_id": "7628257566901355272",
+      "text": "Lm t nhớ tới vụ cắt tóc mà cả khu đó làm dịch vụ ăn uống vui chơi lun du lịch lun😂",
+      "author": "Gia đình của xìn",
+      "author_id": "7231948847847638022",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776092126,
+      "create_time_str": "2026-04-13 14:55:26 UTC"
+    },
+    {
+      "comment_id": "7629243128771822354",
+      "text": "Cuối cùng rồi cũng lại đâu vào đấy thôi😁",
+      "author": "Bảnh🇰🇷",
+      "author_id": "7176968949635236891",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776321602,
+      "create_time_str": "2026-04-16 06:40:02 UTC"
+    },
+    {
+      "comment_id": "7629345875919815445",
+      "text": "Muốn nghỉ nhưng tỉnh không cho :))(",
+      "author": "Điệp Mộng Nguyệt",
+      "author_id": "7048570485345502210",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776345525,
+      "create_time_str": "2026-04-16 13:18:45 UTC"
+    },
+    {
+      "comment_id": "7628396472693752594",
+      "text": "Chính quyền địa phương nắm bắt cơ hội quá tốt 🥰🥰🥰",
+      "author": "Chinh đỗ",
+      "author_id": "7438211704406443026",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776124477,
+      "create_time_str": "2026-04-13 23:54:37 UTC"
+    },
+    {
+      "comment_id": "7629173647156314901",
+      "text": "Haha. Đáng yêu thâht",
+      "author": "hang.happy86",
+      "author_id": "7268176122956809218",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776305429,
+      "create_time_str": "2026-04-16 02:10:29 UTC"
+    },
+    {
+      "comment_id": "7628557618991334151",
+      "text": "da mặt cô con gái đẹp thật",
+      "author": "Tranhtranh 💞",
+      "author_id": "7620082228194182165",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776161994,
+      "create_time_str": "2026-04-14 10:19:54 UTC"
+    },
+    {
+      "comment_id": "7628526594155873045",
+      "text": "xin vía",
+      "author": "nguyễn thị phượng",
+      "author_id": "7181839035639137306",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776154772,
+      "create_time_str": "2026-04-14 08:19:32 UTC"
+    },
+    {
+      "comment_id": "7628423260518105863",
+      "text": "KpI của xã à",
+      "author": "𝓘𝓻ầ𝓷 𝓘𝓱ị 𝓠𝓾ế 𝓐𝓷𝓱🦋",
+      "author_id": "6619688307755155457",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776130708,
+      "create_time_str": "2026-04-14 01:38:28 UTC"
+    },
+    {
+      "comment_id": "7628586763639882517",
+      "text": "nâng giá cao lên là đc",
+      "author": "Zed",
+      "author_id": "7009466839614063617",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776168775,
+      "create_time_str": "2026-04-14 12:12:55 UTC"
+    },
+    {
+      "comment_id": "7629220142732165895",
+      "text": "muốn nghỉ hưu mà đời kh cho phép",
+      "author": "người thương .",
+      "author_id": "7623275069884531733",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776316255,
+      "create_time_str": "2026-04-16 05:10:55 UTC"
+    },
+    {
+      "comment_id": "7628549809594647303",
+      "text": "Đời muốn nghèo cũng khó",
+      "author": "Hoanh- Drip 🥷",
+      "author_id": "7002215482653738010",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776160172,
+      "create_time_str": "2026-04-14 09:49:32 UTC"
+    },
+    {
+      "comment_id": "7628443041641480968",
+      "text": "Khách đông mà nhìn chú rõ khổ",
+      "author": "𝑇𝑟𝑖𝑛ℎ𝑡𝑟𝑖𝑛ℎ🐱",
+      "author_id": "7389077883418084358",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776135322,
+      "create_time_str": "2026-04-14 02:55:22 UTC"
+    },
+    {
+      "comment_id": "7628535719414547217",
+      "text": "Mé bán đắt quá cũng khổ còn quán t muốn được phân nữa như vậy thôi mà ko được",
+      "author": "Mình ơi",
+      "author_id": "6830922148207576065",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776156898,
+      "create_time_str": "2026-04-14 08:54:58 UTC"
+    },
+    {
+      "comment_id": "7628537226217489172",
+      "text": "Làm giàu không khó nhỉ mn",
+      "author": "Thanh Ruby🇻🇳",
+      "author_id": "7382829903501132818",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776157246,
+      "create_time_str": "2026-04-14 09:00:46 UTC"
+    },
+    {
+      "comment_id": "7629173647156314901",
+      "text": "Haha. Đáng yêu thâht",
+      "author": "hang.happy86",
+      "author_id": "7268176122956809218",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776305429,
+      "create_time_str": "2026-04-16 02:10:29 UTC"
+    },
+    {
+      "comment_id": "7628272255201461013",
+      "text": "Ước đông khách như chú 😂",
+      "author": "Ánh Minh STORE .",
+      "author_id": "6851955682754151426",
+      "like_count": 3,
+      "reply_count": 0,
+      "create_time": 1776095547,
+      "create_time_str": "2026-04-13 15:52:27 UTC"
+    },
+    {
+      "comment_id": "7628443041641480968",
+      "text": "Khách đông mà nhìn chú rõ khổ",
+      "author": "𝑇𝑟𝑖𝑛ℎ𝑡𝑟𝑖𝑛ℎ🐱",
+      "author_id": "7389077883418084358",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776135322,
+      "create_time_str": "2026-04-14 02:55:22 UTC"
+    },
+    {
+      "comment_id": "7628417032232993554",
+      "text": "số gia đình này cơ bản là phú quý rồi",
+      "author": "Trình Nguyễn",
+      "author_id": "6944463185744086018",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776129266,
+      "create_time_str": "2026-04-14 01:14:26 UTC"
+    },
+    {
+      "comment_id": "7628500140676809490",
+      "text": "Nước họ thích thế á bây ơi???",
+      "author": "Kim Quy",
+      "author_id": "7306034740863403015",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776148610,
+      "create_time_str": "2026-04-14 06:36:50 UTC"
+    },
+    {
+      "comment_id": "7628234472856863504",
+      "text": "VN chắc phạt gây mất trật tự công cộng rồi tính tiếp",
+      "author": "Sỹ",
+      "author_id": "6706312104893400066",
+      "like_count": 6,
+      "reply_count": 3,
+      "create_time": 1776086751,
+      "create_time_str": "2026-04-13 13:25:51 UTC"
+    },
+    {
+      "comment_id": "7628200991901287186",
+      "text": "Được cả cán bộ hỗ trợ thế kia=))",
+      "author": "Tý Tu Tiên🫥",
+      "author_id": "7123865624149394434",
+      "like_count": 6,
+      "reply_count": 0,
+      "create_time": 1776078957,
+      "create_time_str": "2026-04-13 11:15:57 UTC"
+    },
+    {
+      "comment_id": "7628195022856667922",
+      "text": "Ông chú: tao tức a",
+      "author": "Nhựt",
+      "author_id": "6689334541755646977",
+      "like_count": 6,
+      "reply_count": 0,
+      "create_time": 1776077566,
+      "create_time_str": "2026-04-13 10:52:46 UTC"
+    },
+    {
+      "comment_id": "7628423222161572616",
+      "text": "Ở VN cấm vì gây rối trật tự công cộng 😌",
+      "author": "Việc Tử Tế",
+      "author_id": "6972436125991486465",
+      "like_count": 1,
+      "reply_count": 2,
+      "create_time": 1776130703,
+      "create_time_str": "2026-04-14 01:38:23 UTC"
+    },
+    {
+      "comment_id": "7628563165467067157",
+      "text": "tội mấy con gà",
+      "author": "đỗ nv1 thì đổi tên",
+      "author_id": "6647301063736360961",
+      "like_count": 1,
+      "reply_count": 1,
+      "create_time": 1776163409,
+      "create_time_str": "2026-04-14 10:43:29 UTC"
+    },
+    {
+      "comment_id": "7628422798424392465",
+      "text": "hết đi uống trà.. đánh cờ được luôn 😂",
+      "author": "Kiệt nè",
+      "author_id": "6899384509609165830",
+      "like_count": 2,
+      "reply_count": 1,
+      "create_time": 1776130620,
+      "create_time_str": "2026-04-14 01:37:00 UTC"
+    },
+    {
+      "comment_id": "7628209243128890119",
+      "text": "ai bảo gà ngon quá =)))",
+      "author": ".",
+      "author_id": "6586082210294022146",
+      "like_count": 1,
+      "reply_count": 1,
+      "create_time": 1776080878,
+      "create_time_str": "2026-04-13 11:47:58 UTC"
+    },
+    {
+      "comment_id": "7629400985160516373",
+      "text": "🤣🤣🤣 tưởng dc nghỉ hưu nào thần tài úp",
+      "author": "Lily thích money 😆",
+      "author_id": "79995071079",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776358350,
+      "create_time_str": "2026-04-16 16:52:30 UTC"
+    },
+    {
+      "comment_id": "7629374480443949840",
+      "text": "Tính ra chính quyền địa phương họ cũng nắm bắt cơ hội phết",
+      "author": "KhiemHP",
+      "author_id": "6538274233821937666",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776352189,
+      "create_time_str": "2026-04-16 15:09:49 UTC"
+    },
+    {
+      "comment_id": "7628274789443158791",
+      "text": "ơ có khi ở vn lại dùng đèn pin soi xem nhiễm kim loại nặng hay k, có khi là...",
+      "author": "Goblin Store Boy",
+      "author_id": "6872992755573179393",
+      "like_count": 4,
+      "reply_count": 0,
+      "create_time": 1776096139,
+      "create_time_str": "2026-04-13 16:02:19 UTC"
+    },
+    {
+      "comment_id": "7629214354558452501",
+      "text": "giàu nó ngấm vào gen bảo sao cả nhà đều giàu :))",
+      "author": "Acer Requiem",
+      "author_id": "6804097819878048769",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776314904,
+      "create_time_str": "2026-04-16 04:48:24 UTC"
+    },
+    {
+      "comment_id": "7629207534154466064",
+      "text": "Họ làm du lịch VIP thật",
+      "author": "lặng",
+      "author_id": "6812444238489682945",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776313316,
+      "create_time_str": "2026-04-16 04:21:56 UTC"
+    },
+    {
+      "comment_id": "7629182480377938696",
+      "text": "chú muốn nghỉ nhưng nhà nước không cho phép -))))",
+      "author": "Mẹ✿Sóc🐿️",
+      "author_id": "6801103131835220993",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776307489,
+      "create_time_str": "2026-04-16 02:44:49 UTC"
+    },
+    {
+      "comment_id": "7628394124923716372",
+      "text": "Đúng là nước chảy chỗ trũng. Tiền vào nhà giàu",
+      "author": "Ù ha",
+      "author_id": "7001154762193552386",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776123938,
+      "create_time_str": "2026-04-13 23:45:38 UTC"
+    },
+    {
+      "comment_id": "7629018935425794834",
+      "text": "Thời tới cản ko kịp kkkkk",
+      "author": "Trâm Lê",
+      "author_id": "7547283367327941688",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776269396,
+      "create_time_str": "2026-04-15 16:09:56 UTC"
+    },
+    {
+      "comment_id": "7628974290498552597",
+      "text": "Nhà nước bắt phải giàu 😂",
+      "author": "Duy Nhôm Hệ",
+      "author_id": "6944626056259552258",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776259004,
+      "create_time_str": "2026-04-15 13:16:44 UTC"
+    },
+    {
+      "comment_id": "7628230948920410898",
+      "text": "Ủa rồi sao đủ gà đạt yêu càu như ban đầu nữa",
+      "author": "TamyChan13",
+      "author_id": "6716000498610766850",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776085929,
+      "create_time_str": "2026-04-13 13:12:09 UTC"
+    },
+    {
+      "comment_id": "7628197214259004176",
+      "text": "tội mấy con gà:))",
+      "author": "𝙳à𝚗𝚐",
+      "author_id": "7359060726759736326",
+      "like_count": 2,
+      "reply_count": 0,
+      "create_time": 1776078080,
+      "create_time_str": "2026-04-13 11:01:20 UTC"
+    },
+    {
+      "comment_id": "7628782583421649682",
+      "text": "khách xếp hàng chờ gà lớn luôn 🤣🤣",
+      "author": "Lê Thanh",
+      "author_id": "7070469079273948161",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776214377,
+      "create_time_str": "2026-04-15 00:52:57 UTC"
+    },
+    {
+      "comment_id": "7628772113398366996",
+      "text": "biết sao nước người ta top đầu TG rồi đấy",
+      "author": "Chàng Trai T12",
+      "author_id": "6559868044365119490",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776211946,
+      "create_time_str": "2026-04-15 00:12:26 UTC"
+    },
+    {
+      "comment_id": "7628672502915465992",
+      "text": "Ở mình thì liệu cán bộ xuống gõ đầu đóng thuyế k thì đóng cửa tiệm k mn?",
+      "author": "Văn Hiếu",
+      "author_id": "6550210327631560706",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776188742,
+      "create_time_str": "2026-04-14 17:45:42 UTC"
+    },
+    {
+      "comment_id": "7628612184104436501",
+      "text": "50tr nhận làm nv cho chú",
+      "author": "phan1999/3141",
+      "author_id": "7159975527615906822",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776174696,
+      "create_time_str": "2026-04-14 13:51:36 UTC"
+    },
+    {
+      "comment_id": "7628534413753090833",
+      "text": "Nghèo thì lâu chứ giàu thì mấy khi😁",
+      "author": "Độc cô cầu bại",
+      "author_id": "7295755582069621778",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776156604,
+      "create_time_str": "2026-04-14 08:50:04 UTC"
+    },
+    {
+      "comment_id": "7628516814411547413",
+      "text": "đừng có ai hỏi lỡ cả đời không rực rỡ thì sao? Đến lúc già đuối sức rồi mà đời nó lại bắt rực rỡ thì chạy chết bỏ",
+      "author": "Thắng Lê",
+      "author_id": "7383629175250912272",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776152497,
+      "create_time_str": "2026-04-14 07:41:37 UTC"
+    },
+    {
+      "comment_id": "7628503575501079297",
+      "text": "nhìn UB nhà nước ngta quản lý mà ước...",
+      "author": "Ngày Mới",
+      "author_id": "7075414359800169498",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776149415,
+      "create_time_str": "2026-04-14 06:50:15 UTC"
+    },
+    {
+      "comment_id": "7628486513986568967",
+      "text": "Lúc trước A Xúc đến miếu Thiên Hậu lỡ miệng\" xin cho con bán đắt\" 😁 và cái kết",
+      "author": "Go Up Juices & Tea",
+      "author_id": "7118285077541143553",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776145437,
+      "create_time_str": "2026-04-14 05:43:57 UTC"
+    },
+    {
+      "comment_id": "7628480417040974613",
+      "text": "[Sticker] Ở độ tuổi hết tham vọng thì ông trời lại bắt vươn lên😂😂",
+      "author": "A N H⚡️",
+      "author_id": "6865530450623398914",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776144017,
+      "create_time_str": "2026-04-14 05:20:17 UTC"
+    },
+    {
+      "comment_id": "7628470749775086354",
+      "text": "Tin video lói = đeo khuyên",
+      "author": "𝙲𝚝𝚛𝚕 + 𝕍",
+      "author_id": "7262124222939677703",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776141762,
+      "create_time_str": "2026-04-14 04:42:42 UTC"
+    },
+    {
+      "comment_id": "7628461763525886740",
+      "text": "Lãnh đạo nhà ngta có khác 🥰 lãnh đạo nhà mình thấy là phạt mất trật tự chứ đâu có nghĩ du lịch gì đâu. Toàn ngồi mát roi ăn 😌 chớ làm gì",
+      "author": "Hihi Hahaa",
+      "author_id": "7547935810273592327",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776139675,
+      "create_time_str": "2026-04-14 04:07:55 UTC"
+    },
+    {
+      "comment_id": "7628459010089321234",
+      "text": "Nếu cả đời bắt rực rỡ thì sao",
+      "author": "công chúa remix",
+      "author_id": "6975420065017529350",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776139034,
+      "create_time_str": "2026-04-14 03:57:14 UTC"
+    },
+    {
+      "comment_id": "7628447029862564615",
+      "text": "🤣🤣🤣🤣 ở VN là mất trật tự phạt tiền với mức cao để rằng đe.bán quá 10h đêm thì phạt 🤣🤣🤣",
+      "author": "Trâm a",
+      "author_id": "7136154678815179803",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776136249,
+      "create_time_str": "2026-04-14 03:10:49 UTC"
+    },
+    {
+      "comment_id": "7628414089463743253",
+      "text": "cơ chế bên mình đợi phê duyệt tới lúc thực hiện xong chắc chú này đc mấy giỗ luôn chứ nói gì tới bán buôn nữa, mà làm tắt làm nhanh mai mốt thanh cha đến lại bóc lịch. Mong quyền lực quy về 1 mối thì nhiều chính sách sẽ nhanh gọn hơn.",
+      "author": "Betta",
+      "author_id": "6871389394651350018",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776128593,
+      "create_time_str": "2026-04-14 01:03:13 UTC"
+    },
+    {
+      "comment_id": "7628412101946065684",
+      "text": "Thời tới cản không kịp😆",
+      "author": "Ơ Mai À",
+      "author_id": "7015888565074985985",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776128124,
+      "create_time_str": "2026-04-14 00:55:24 UTC"
+    },
+    {
+      "comment_id": "7628411701336474375",
+      "text": "ở bên trung là địa phương nắm tình hình nhanh lắm nhé. ông chú này là được chính quyền ủng hộ tạo mọi điều kiện đó.",
+      "author": "Lost In Vietnam",
+      "author_id": "7070889117471818754",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776128033,
+      "create_time_str": "2026-04-14 00:53:53 UTC"
+    },
+    {
+      "comment_id": "7628393204002079509",
+      "text": "giàu ko đúng tuổi",
+      "author": "phan tuấn",
+      "author_id": "6815228749563413505",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776123726,
+      "create_time_str": "2026-04-13 23:42:06 UTC"
+    },
+    {
+      "comment_id": "7628386391307846418",
+      "text": "ở vn. lo đóng cửa vì mất trật tự nhá😂. +đóng tiền phạt😂",
+      "author": "hồng phúc fishing",
+      "author_id": "7231539034014090241",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776122142,
+      "create_time_str": "2026-04-13 23:15:42 UTC"
+    },
+    {
+      "comment_id": "7628278777256362770",
+      "text": "hhhhuh",
+      "author": "kb888.fun_rut.now",
+      "author_id": "7120066036578108418",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776097064,
+      "create_time_str": "2026-04-13 16:17:44 UTC"
+    },
+    {
+      "comment_id": "7628277167504786183",
+      "text": "hahaaaa",
+      "author": "tuanokvip123",
+      "author_id": "6599974897136533505",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776096696,
+      "create_time_str": "2026-04-13 16:11:36 UTC"
+    },
+    {
+      "comment_id": "7628264069933482760",
+      "text": "Số bắt phải giàu 🗿",
+      "author": "duc quyenn",
+      "author_id": "7548451210966205447",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776093642,
+      "create_time_str": "2026-04-13 15:20:42 UTC"
+    },
+    {
+      "comment_id": "7628231720014103312",
+      "text": "Kích cầu du lịch ác",
+      "author": "Bee",
+      "author_id": "74132839443",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776086121,
+      "create_time_str": "2026-04-13 13:15:21 UTC"
+    },
+    {
+      "comment_id": "7628229223106462484",
+      "text": "nếu ở vn thì quán của lê dương bảo lâm là 1 ví dụ 😂😂😂",
+      "author": "️",
+      "author_id": "6870272179943146498",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776085530,
+      "create_time_str": "2026-04-13 13:05:30 UTC"
+    },
+    {
+      "comment_id": "7628226948276585236",
+      "text": "nước mình cũng có một cô mà cô biết nói tiếng bắc trung nam TQ với TA á nhưng mà k thấy ai làm hot hot để VN mình cx dc như ngta ở đâu á mn biết k nhỉ",
+      "author": "Đthịnh 🦴",
+      "author_id": "7394470149829231621",
+      "like_count": 1,
+      "reply_count": 0,
+      "create_time": 1776085009,
+      "create_time_str": "2026-04-13 12:56:49 UTC"
+    },
+    {
+      "comment_id": "7629639677339697940",
+      "text": "Đóng cửa cũng không được khổ bác thật công nhận bên này hổ chợ địa phương làm giàu tốt thật",
+      "author": "Sop Thảo",
+      "author_id": "7229261054668080130",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776413931,
+      "create_time_str": "2026-04-17 08:18:51 UTC"
+    },
+    {
+      "comment_id": "7629577823543608082",
+      "text": "cho tui hỏi cái này nhá mọi ng\nsao đủ gà đc ạ",
+      "author": "ĐƯỜNG MINH KHANG ĐMK",
+      "author_id": "7165744665635079169",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776399525,
+      "create_time_str": "2026-04-17 04:18:45 UTC"
+    },
+    {
+      "comment_id": "7629569798707495701",
+      "text": "Tới gần cuối đời thì rực rỡ",
+      "author": "Ngủ ngày 16 tiếng 🌷🌸",
+      "author_id": "6924227131434075138",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776397663,
+      "create_time_str": "2026-04-17 03:47:43 UTC"
+    },
+    {
+      "comment_id": "7629565952808829712",
+      "text": "Má bắn mấy cái ảnh t cười xỉu=)))))))",
+      "author": "𝙏𝙝𝙖𝙣𝙝𝙩𝙧𝙪𝙘<𝟯",
+      "author_id": "7079736218527466498",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776396767,
+      "create_time_str": "2026-04-17 03:32:47 UTC"
+    },
+    {
+      "comment_id": "7629561599489098517",
+      "text": "khéo tay hay làm..thì món gì cũng ngon",
+      "author": "timiti",
+      "author_id": "7263532553985459207",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776395751,
+      "create_time_str": "2026-04-17 03:15:51 UTC"
+    },
+    {
+      "comment_id": "7629552829564207892",
+      "text": "ở ta chắc ngăn đường thu thuế phạt",
+      "author": "Đinh Thanh Hà",
+      "author_id": "6667021548216418306",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776393708,
+      "create_time_str": "2026-04-17 02:41:48 UTC"
+    },
+    {
+      "comment_id": "7629513220509188884",
+      "text": "Flo chéo uy tín🥰",
+      "author": "Chị em Hấu-Bắp",
+      "author_id": "7281673636129080328",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776384512,
+      "create_time_str": "2026-04-17 00:08:32 UTC"
+    },
+    {
+      "comment_id": "7629396972806079252",
+      "text": "ở Hà Đông dân ra thả diều chưa được 1 tuần dẹp luôn 😅",
+      "author": "Duy Tráng",
+      "author_id": "6764399998374953985",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776357422,
+      "create_time_str": "2026-04-16 16:37:02 UTC"
+    },
+    {
+      "comment_id": "7629370486887957255",
+      "text": "Mở bán chơi ko ngờ tới một ngày thở ko kịp",
+      "author": "Hương lan",
+      "author_id": "6820709020497839106",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776351249,
+      "create_time_str": "2026-04-16 14:54:09 UTC"
+    },
+    {
+      "comment_id": "7629369410855273234",
+      "text": "đến cái tuổi nghỉ ngơi ăn dưỡng,lại bắt phải làm lao động chính! tình người ở đâu, pháp luật ở đâu🤣🤣🤣",
+      "author": "Xa nhà",
+      "author_id": "6888982409539290114",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776351002,
+      "create_time_str": "2026-04-16 14:50:02 UTC"
+    },
+    {
+      "comment_id": "7629342751125488404",
+      "text": "Bên TQ họ kiểm soát chặt nhưng họ rất biết cách hỗ trợ người dân",
+      "author": "Văn Lang",
+      "author_id": "6669085537075052546",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776344797,
+      "create_time_str": "2026-04-16 13:06:37 UTC"
+    },
+    {
+      "comment_id": "7629337527925637909",
+      "text": "ông chú giờ phải làm vì địa phương, có mặt là được 😂😂😂",
+      "author": "Thụy Apple 🍎🎸",
+      "author_id": "6978863131813233666",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776343583,
+      "create_time_str": "2026-04-16 12:46:23 UTC"
+    },
+    {
+      "comment_id": "7629291996259353365",
+      "text": "Thời tới cản đ đc",
+      "author": "Nhớ Benjamin Sesko",
+      "author_id": "6897790127704523782",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776332978,
+      "create_time_str": "2026-04-16 09:49:38 UTC"
+    },
+    {
+      "comment_id": "7629285068956042002",
+      "text": "[Sticker] ông mo🥰",
+      "author": "năc' gay c@c ông thầy toán🌚",
+      "author_id": "7602198325182596104",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776331370,
+      "create_time_str": "2026-04-16 09:22:50 UTC"
+    },
+    {
+      "comment_id": "7629279410860475157",
+      "text": "đúng ở đời. nhiều cái ko nói trước đc.làm chơi ăn thiệt",
+      "author": "Quan Nguyen",
+      "author_id": "6621732585767272449",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776330051,
+      "create_time_str": "2026-04-16 09:00:51 UTC"
+    },
+    {
+      "comment_id": "7629255400059110164",
+      "text": "[Sticker] Thời tới cản k kịp",
+      "author": "Người đẹp ✨",
+      "author_id": "7612881333283292180",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776324458,
+      "create_time_str": "2026-04-16 07:27:38 UTC"
+    },
+    {
+      "comment_id": "7629253913741624071",
+      "text": "đấy hỗ trợ dân tận răng luôn",
+      "author": "「hoa nở về đêm 」",
+      "author_id": "7366239820597773329",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776324114,
+      "create_time_str": "2026-04-16 07:21:54 UTC"
+    },
+    {
+      "comment_id": "7629246098071274248",
+      "text": "Đúng nhà nước quá tuyệt, dân giàu thì nước mới mạnh.",
+      "author": "Mẹ em Win",
+      "author_id": "7426328726654567429",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776322293,
+      "create_time_str": "2026-04-16 06:51:33 UTC"
+    },
+    {
+      "comment_id": "7629245298655331090",
+      "text": "gan gà hơi có vấn đề nha",
+      "author": "Anh Ba Chích Boà PY",
+      "author_id": "6537269891077013505",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776322107,
+      "create_time_str": "2026-04-16 06:48:27 UTC"
+    },
+    {
+      "comment_id": "7629242555741700884",
+      "text": "thời tới cản ko kịp😅:))))",
+      "author": "遵┊☻ˇThông nè k5.Ϟ",
+      "author_id": "7616943502794671125",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776321468,
+      "create_time_str": "2026-04-16 06:37:48 UTC"
+    },
+    {
+      "comment_id": "7629238445148111636",
+      "text": "gà kiểu : từ từ cho tao sinh thêm nx",
+      "author": "leo♡Bảo Châu🤞",
+      "author_id": "7594061289040790535",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776320519,
+      "create_time_str": "2026-04-16 06:21:59 UTC"
+    },
+    {
+      "comment_id": "7629236112759571208",
+      "text": "chil này lạ lắm😂",
+      "author": "GAME KTOL MỚI 🌾",
+      "author_id": "7591120029594256404",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776319969,
+      "create_time_str": "2026-04-16 06:12:49 UTC"
+    },
+    {
+      "comment_id": "7629236104038302471",
+      "text": "Nơi trùng sinh của loài gà",
+      "author": "tramdo",
+      "author_id": "7159567945352397826",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776319965,
+      "create_time_str": "2026-04-16 06:12:45 UTC"
+    },
+    {
+      "comment_id": "7629233680687645441",
+      "text": "ông bố sướng vãi",
+      "author": "yo chi",
+      "author_id": "7489279676872623121",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776319656,
+      "create_time_str": "2026-04-16 06:07:36 UTC"
+    },
+    {
+      "comment_id": "7629231412474397458",
+      "text": "Thời tới cản k kịp 😂",
+      "author": "chinguyen.206🍟",
+      "author_id": "6948787375696200705",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776318874,
+      "create_time_str": "2026-04-16 05:54:34 UTC"
+    },
+    {
+      "comment_id": "7629229667921511189",
+      "text": "nhìn ôg chú nằm mà bất lực 🫪",
+      "author": "️",
+      "author_id": "7232582847877465090",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776318477,
+      "create_time_str": "2026-04-16 05:47:57 UTC"
+    },
+    {
+      "comment_id": "7629212069849744149",
+      "text": "cách này mới là chính quyền giúp dân làm giàu, đóng thuế đủ là được 🥰",
+      "author": "Bs.Truonghp",
+      "author_id": "7001876118060073986",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776314372,
+      "create_time_str": "2026-04-16 04:39:32 UTC"
+    },
+    {
+      "comment_id": "7629207030129181457",
+      "text": "Lãnh đạo nhà nguòi ta 😂",
+      "author": "𝐍𝐠ọ𝐜-𝐐𝐮â𝐧",
+      "author_id": "7229980997072552965",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776313198,
+      "create_time_str": "2026-04-16 04:19:58 UTC"
+    },
+    {
+      "comment_id": "7629202994882102034",
+      "text": "2 cái cty của ng con lấy làm kiển luôn rồi",
+      "author": "NNc丶hau26139",
+      "author_id": "7256996250121716737",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776312262,
+      "create_time_str": "2026-04-16 04:04:22 UTC"
+    },
+    {
+      "comment_id": "7629202896441574162",
+      "text": "Ở vn thì vào thu thuế vào đớp ngay",
+      "author": "Unitech",
+      "author_id": "6963062448848995329",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776312235,
+      "create_time_str": "2026-04-16 04:03:55 UTC"
+    },
+    {
+      "comment_id": "7629195459878241042",
+      "text": "Lúc nghèo thì cố mà nghèo đi. Lúc mà phất lên rồi thì muốn nghèo cũng khó😁",
+      "author": "phụ kiện xinh",
+      "author_id": "7628551285956707346",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776310504,
+      "create_time_str": "2026-04-16 03:35:04 UTC"
+    },
+    {
+      "comment_id": "7629189872644899592",
+      "text": "Ở VN mà thế chính quyền cũng hỗ trợ mà. Năm xưa quê m có đồi chè đẹp đẹp , thế rồi huyện cho làm page quảng cáo, đăng biển, láng bê tông … mười mấy năm trước giúp đỡ dân. H thành điêm du lịch luôn",
+      "author": "Nguyen Thu Huong",
+      "author_id": "6567600533997518849",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776309202,
+      "create_time_str": "2026-04-16 03:13:22 UTC"
+    },
+    {
+      "comment_id": "7628615301747196692",
+      "text": "Nghỉ hưu gặp nghỉ lễ.",
+      "author": "Yorrichi tsughikuni…✨",
+      "author_id": "7506522783678399509",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776175419,
+      "create_time_str": "2026-04-14 14:03:39 UTC"
+    },
+    {
+      "comment_id": "7628615140652663572",
+      "text": "Hên là bên ấy chứ ở bên đây thì hôm sau ko còn 1 ai đến,,1 đậu xe phạt,,2 tập trung đông người dẹp,,3 kiểm tra nguồn hàng,,4 gây mất ảnh hưởng xung quanh",
+      "author": "Nguyễn Vũ",
+      "author_id": "6843735064603100162",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776175384,
+      "create_time_str": "2026-04-14 14:03:04 UTC"
+    },
+    {
+      "comment_id": "7628614789070291719",
+      "text": "Khi muốn chill chill tuổi già nhưng nhà nước bảo Không😂",
+      "author": "Dũng_Lê",
+      "author_id": "7444943515199734791",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776175304,
+      "create_time_str": "2026-04-14 14:01:44 UTC"
+    },
+    {
+      "comment_id": "7629291996259353365",
+      "text": "Thời tới cản đ đc",
+      "author": "Nhớ Benjamin Sesko",
+      "author_id": "6897790127704523782",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776332978,
+      "create_time_str": "2026-04-16 09:49:38 UTC"
+    },
+    {
+      "comment_id": "7629296523792122640",
+      "text": "@Ann🌻 @changeun97_🇻🇳",
+      "author": "Chang🐼💙",
+      "author_id": "7032776265816802306",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776334037,
+      "create_time_str": "2026-04-16 10:07:17 UTC"
+    },
+    {
+      "comment_id": "7628614501209801473",
+      "text": "Mà có ngon ko nhỉ",
+      "author": "Trái Đất",
+      "author_id": "6932412677264344065",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776175236,
+      "create_time_str": "2026-04-14 14:00:36 UTC"
+    },
+    {
+      "comment_id": "7628613796521935634",
+      "text": "mình cũng ko bít bản reviu gốc của anh vũ hân đâu phải đọc ctm mới bít 😂🥰",
+      "author": "shila manyla 999",
+      "author_id": "6766378042006930433",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776175069,
+      "create_time_str": "2026-04-14 13:57:49 UTC"
+    },
+    {
+      "comment_id": "7629296546807137042",
+      "text": "lại nhớ cô gái vui mồm đầu năm 🤣",
+      "author": "8:33 ❚❚ ━●━━━━─────── 1:59:00",
+      "author_id": "6568249488798941186",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776334037,
+      "create_time_str": "2026-04-16 10:07:17 UTC"
+    },
+    {
+      "comment_id": "7628613761951351559",
+      "text": "Thời tới cản không kịp",
+      "author": "☘️Quyên Mít🍀",
+      "author_id": "6671543187197460481",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776175060,
+      "create_time_str": "2026-04-14 13:57:40 UTC"
+    },
+    {
+      "comment_id": "7629278084151132935",
+      "text": "🥰🥰🥰",
+      "author": "Nay Djrueng",
+      "author_id": "7357578521391006726",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776329735,
+      "create_time_str": "2026-04-16 08:55:35 UTC"
+    },
+    {
+      "comment_id": "7628628192702464786",
+      "text": "🤣🤣🤣",
+      "author": "Hght",
+      "author_id": "6800218436079731713",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776178423,
+      "create_time_str": "2026-04-14 14:53:43 UTC"
+    },
+    {
+      "comment_id": "7628628049336582929",
+      "text": "🥰🥰🥰",
+      "author": "Niniquynh1412",
+      "author_id": "6665484580181884930",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776178388,
+      "create_time_str": "2026-04-14 14:53:08 UTC"
+    },
+    {
+      "comment_id": "7628627604690862869",
+      "text": "Lỡ cuộc đời bắt bạn rực rỡ thì sao =)))",
+      "author": "Hải Yến",
+      "author_id": "6580658557988798465",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776178291,
+      "create_time_str": "2026-04-14 14:51:31 UTC"
+    },
+    {
+      "comment_id": "7628626481724326676",
+      "text": "ở vn chắc ko cữa nhà nước tiếp sức như vậy đâu, vệ sinh thực phẩm ko an toàn lại bị phạt",
+      "author": "lương a 5 trẹo",
+      "author_id": "6551351600736239618",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776178027,
+      "create_time_str": "2026-04-14 14:47:07 UTC"
+    },
+    {
+      "comment_id": "7628626102995927816",
+      "text": "🥰🥰🥰",
+      "author": "hi",
+      "author_id": "7590404450046067732",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776177941,
+      "create_time_str": "2026-04-14 14:45:41 UTC"
+    },
+    {
+      "comment_id": "7628625525955773205",
+      "text": "😂😂😂",
+      "author": "tập review 😃",
+      "author_id": "6837012361679127553",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776177804,
+      "create_time_str": "2026-04-14 14:43:24 UTC"
+    },
+    {
+      "comment_id": "7629273276816671505",
+      "text": "Hay 👍 lãnh đạo tuyệt👍",
+      "author": "A Thuỷ🇻🇳😎",
+      "author_id": "6722260480796574722",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776328622,
+      "create_time_str": "2026-04-16 08:37:02 UTC"
+    },
+    {
+      "comment_id": "7629274588962964231",
+      "text": "Ông con đạo diễn hết",
+      "author": "Lê Đức Trung",
+      "author_id": "6897498037535982594",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776328925,
+      "create_time_str": "2026-04-16 08:42:05 UTC"
+    },
+    {
+      "comment_id": "7628624672737477397",
+      "text": "ở VN có dc hỗ trợ vậy ko ta😅",
+      "author": "Tổng Kho Đá Phong Thủy",
+      "author_id": "7026380758769484801",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776177605,
+      "create_time_str": "2026-04-14 14:40:05 UTC"
+    },
+    {
+      "comment_id": "7628624345342837522",
+      "text": "🥰🥰🥰🥰❤️",
+      "author": "heo",
+      "author_id": "7619677030325568530",
+      "like_count": 0,
+      "reply_count": 0,
+      "create_time": 1776177530,
+      "create_time_str": "2026-04-14 14:38:50 UTC"
+    }
+  ],
+  "comments_count": 519
+}

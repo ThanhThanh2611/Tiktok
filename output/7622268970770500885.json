@@ -16,7 +16,55 @@
     "webpage_url": "https://www.tiktok.com/@bhmedialive/video/7622268970770500885?is_from_webapp=1",
     "video_id": "7622268970770500885"
   },
-  "analysis": "",
+  "analysis": {
+    "topic_summary": "Video recap tổng hợp các khoảnh khắc 'búng ra meme' của TikToker Yo Bae khi thực hiện chuỗi series bóc tách drama liên quan đến Gia đình Nala và nhân vật Lê Vi Thục San.",
+    "character_dynamics": {
+      "narrator": "Yo Bae - Thể hiện phong thái châm biếm, sử dụng biểu cảm gương mặt linh hoạt (facial expressions) làm vũ khí chính để tạo tính giải trí.",
+      "antagonist_context": "Lê Vi Thục San (Lê Xuân Lộc) - Bị đặt vào các nghi vấn về giới tính, bằng cấp và sự trung thực trong nội dung sáng tạo.",
+      "supporting_roles": "Bà Loan, Nàng Mơ, Nàng Thơ - Được nhắc đến như những mắt xích trong một 'vũ trụ drama' có tính sắp đặt."
+    },
+    "key_events_timeline": [
+      {
+        "time": "00:00 - 00:15",
+        "content": "Giới thiệu concept 'Hóng drama là phụ, xem biểu cảm Yo Bae là chính'. Khởi động với câu cửa miệng 'Ú òa' mang tính thương hiệu.",
+        "intent": "Thiết lập sự chú ý (Hook) bằng thương hiệu cá nhân."
+      },
+      {
+        "time": "00:16 - 00:45",
+        "content": "Phân tích cụm từ 'Nhà ráng tạo nội dung' - Một cách chơi chữ mỉa mai việc cố gắng tạo ra scandal để nổi tiếng thay vì sáng tạo thực thụ.",
+        "keywords": ["Ráng tạo nội dung", "Gia đình Nala"]
+      },
+      {
+        "time": "00:46 - 01:15",
+        "content": "Sử dụng sơ đồ minh họa về 'Bà Loan' để dẫn dắt tới từ khóa 'Luận Loan'. Đây là đỉnh điểm của sự châm biếm bằng ngôn từ (wordplay).",
+        "visual_aid": "Infographic tự chế giải thích mối quan hệ gia đình."
+      },
+      {
+        "time": "01:16 - 01:50",
+        "content": "Đưa ra bằng chứng về giới tính của Thục San: Chứng chỉ IELTS ghi tên Lê Xuân Lộc, các hình ảnh lộ yết hầu, lông bụng và ảnh quá khứ nam giới.",
+        "evidence_type": "Documentary evidence & Social media leaks."
+      },
+      {
+        "time": "01:51 - 02:20",
+        "content": "Giải mã thuật ngữ 'BỤM' (Be Urself More). Mỉa mai sự mâu thuẫn giữa thông điệp 'hãy là chính mình' và việc che giấu nhân dạng thật.",
+        "irony_level": "High"
+      },
+      {
+        "time": "02:21 - 02:54",
+        "content": "Phản hồi về lời thách thức tặng voucher nghỉ dưỡng tại Nala Boutique Retreat. Yo Bae kêu gọi cộng đồng chia sẻ để cô có cơ hội đi 'gián điệp'.",
+        "call_to_action": "Engagement driven by curiosity."
+      }
+    ],
+    "linguistic_style": {
+      "tone": "Sarcastic (Châm biếm), Sharp (Sắc sảo), Trendy (Bắt trend).",
+      "special_terms": ["Ú òa", "Búng ra meme", "Luận Loan", "Nhà ráng tạo", "Bụm chúa"],
+      "impact": "Biến một vấn đề xã hội/drama mạng thành một dạng Content giải trí có tính hệ thống cao."
+    },
+    "production_analysis": {
+      "editing": "Sử dụng kỹ thuật 'Fast-cut' (cắt nhanh), zoom cận vào biểu cảm mắt và môi. Chèn âm thanh hiệu ứng (SFX) hài hước và nhạc nền kịch tính chuyển đổi linh hoạt.",
+      "visual": "Sự đối lập giữa ánh sáng studio của Yo Bae và các tư liệu livestream chất lượng thấp của đối tượng bị phân tích."
+    }
+  },
   "comments": [
     {
       "comment_id": "7622408124524217089",
@@ -2599,6 +2647,5 @@
       "create_time_str": "2026-03-30 04:07:13 UTC"
     }
   ],
-  "comments_count": 258,
-  "analysis_error": "400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'API key expired. Please renew the API key.', 'status': 'INVALID_ARGUMENT', 'details': [{'@type': 'type.googleapis.com/google.rpc.ErrorInfo', 'reason': 'API_KEY_INVALID', 'domain': 'googleapis.com', 'metadata': {'service': 'generativelanguage.googleapis.com'}}, {'@type': 'type.googleapis.com/google.rpc.LocalizedMessage', 'locale': 'en-US', 'message': 'API key expired. Please renew the API key.'}]}}"
+  "comments_count": 258
 }
